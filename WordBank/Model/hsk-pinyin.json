@@ -1,0 +1,3346 @@
+[
+    {
+        "prefix": "A", 
+        "word": "安", 
+        "jpword": "安静", 
+        "kana": "ān jìng ", 
+        "mean": "安静", 
+        "sample": "心身の安静を保つ。/保持心身的安静。"
+    }, 
+    {
+        "prefix": "A", 
+        "word": "安", 
+        "jpword": "安全", 
+        "kana": "ān quán ", 
+        "mean": "安全，保险，平安", 
+        "sample": "安全第一主義/安全第一的原则。"
+    }, 
+    {
+        "prefix": "A", 
+        "word": "安", 
+        "jpword": "安置", 
+        "kana": "ān zhì ", 
+        "mean": "安放，安置", 
+        "sample": "遺体を安置する。/安放遗体。"
+    }, 
+    {
+        "prefix": "A", 
+        "word": "案", 
+        "jpword": "案件", 
+        "kana": "àn jiàn ", 
+        "mean": "案件", 
+        "sample": "案件に裁決を下す。/断案。"
+    }, 
+    {
+        "prefix": "A", 
+        "word": "暗", 
+        "jpword": "暗示", 
+        "kana": "àn shì ", 
+        "mean": "暗示，示意", 
+        "sample": "答えを暗示する。/暗示答案。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "包", 
+        "jpword": "包括", 
+        "kana": "bāo kuò ", 
+        "mean": "包括，总括", 
+        "sample": "包括範囲。/（协定的）包括范围。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "包", 
+        "jpword": "包装", 
+        "kana": "bāo zhuāng ", 
+        "mean": "包装", 
+        "sample": "包装が良い。/包装良好。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "薄", 
+        "jpword": "薄弱", 
+        "kana": "báo ruò ", 
+        "mean": "软弱孱弱，薄弱，不坚定，不足", 
+        "sample": "意志薄弱な人。/意志薄弱的人。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "保", 
+        "jpword": "保管", 
+        "kana": "bǎo guǎn ", 
+        "mean": "保管", 
+        "sample": "忘れ物を受付で保管する/遗忘物品在受付处保管。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "保", 
+        "jpword": "保守", 
+        "kana": "bǎo shǒu ", 
+        "mean": "保守，保养", 
+        "sample": "保守派/保守派。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "保", 
+        "jpword": "保障", 
+        "kana": "bǎo zhàng ", 
+        "mean": "保障", 
+        "sample": "社会保障/社会保障。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "暴", 
+        "jpword": "暴力", 
+        "kana": "bào lì ", 
+        "mean": "暴力，武力", 
+        "sample": "暴力を加える。 /施加暴力。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "暴", 
+        "jpword": "暴露", 
+        "kana": "bào lù ", 
+        "mean": "曝晒，风吹日晒，暴露，泄露", 
+        "sample": "陰謀が暴露した。/阴谋败露了。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "悲", 
+        "jpword": "悲哀", 
+        "kana": "bēi āi ", 
+        "mean": "悲哀", 
+        "sample": "人生の悲哀を切実に感じる/切实地感受到人生的悲哀"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "悲", 
+        "jpword": "悲惨", 
+        "kana": "bēi cǎn ", 
+        "mean": "悲惨，凄惨", 
+        "sample": "悲惨を極めた光景/极其悲惨的情景"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "被", 
+        "jpword": "被告", 
+        "kana": "bèi gào ", 
+        "mean": "被告", 
+        "sample": "被告人。/被告人。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "本", 
+        "jpword": "本来", 
+        "kana": "běn lái ", 
+        "mean": "本来，原来，当然，应该", 
+        "sample": "本来の面目を保つ。/保持本来面貌。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "本", 
+        "jpword": "本能", 
+        "kana": "běn néng ", 
+        "mean": "本能", 
+        "sample": "本能の赴くままに行動する。/按照本能而行动。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "本", 
+        "jpword": "本人", 
+        "kana": "běn rén ", 
+        "mean": "本人", 
+        "sample": "本人に確かめる/确认是本人。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "必", 
+        "jpword": "必定", 
+        "kana": "bì dìng ", 
+        "mean": "必定，一定", 
+        "sample": "優勝は必定だ/夺冠已成定局"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "碧", 
+        "jpword": "碧玉", 
+        "kana": "bì yù ", 
+        "mean": "碧玉", 
+        "sample": "江南地方では碧玉がとれる/江南出产碧玉。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "便", 
+        "jpword": "便利", 
+        "kana": "biàn lì ", 
+        "mean": "便利，方便，便当", 
+        "sample": "生活するのに便利な所/生活便利的地方。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "表", 
+        "jpword": "表示", 
+        "kana": "biǎo shì ", 
+        "mean": "表示，表达，表明", 
+        "sample": "意志を表示する。/表明意思。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "表", 
+        "jpword": "表彰", 
+        "kana": "biǎo zhāng ", 
+        "mean": "表扬，表彰", 
+        "sample": "表彰状。/奖状。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "波", 
+        "jpword": "波浪", 
+        "kana": "bō làng ", 
+        "mean": "波浪", 
+        "sample": "沿岸波浪実況図。/沿海波浪实况图。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "博", 
+        "jpword": "博士", 
+        "kana": "bó shì ", 
+        "mean": "博士，博学之士", 
+        "sample": "医学博士。/医学博士。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "捕", 
+        "jpword": "捕捉", 
+        "kana": "bǔ zhuō ", 
+        "mean": "捕捉，捉拿，捉摸，理解", 
+        "sample": "実態は捕捉しがたい。/难以捕捉真实情况。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "布", 
+        "jpword": "布告", 
+        "kana": "bù gào ", 
+        "mean": "公布，宣布，宣告，公告", 
+        "sample": "布告を張り出す/张贴布告。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "布", 
+        "jpword": "布局", 
+        "kana": "bù jú ", 
+        "mean": "布局", 
+        "sample": "合理的な布局/合理的布局。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "布", 
+        "jpword": "布置", 
+        "kana": "bù zhì ", 
+        "mean": "布置，放置", 
+        "sample": "庭石を布置する/布置庭石。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "部", 
+        "jpword": "部分", 
+        "kana": "bù fèn ", 
+        "mean": "部分", 
+        "sample": "最初の部分/开头部分"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "部", 
+        "jpword": "部署", 
+        "kana": "bù shǔ ", 
+        "mean": "工作岗位，职守", 
+        "sample": "部署につく/布置就位"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "部", 
+        "jpword": "部位", 
+        "kana": "bù wèi ", 
+        "mean": "部分，部位", 
+        "sample": "身体の各部位/身体各部位。"
+    }, 
+    {
+        "prefix": "C", 
+        "word": "裁", 
+        "jpword": "裁判", 
+        "kana": "cái pàn ", 
+        "mean": "裁断，评判，判断，裁判", 
+        "sample": "理非分明に裁判する/评判是非分明"
+    }, 
+    {
+        "prefix": "C", 
+        "word": "参", 
+        "jpword": "参加", 
+        "kana": "cān jiā ", 
+        "mean": "参加，加入", 
+        "sample": "平和運動に参加する/参加和平运动"
+    }, 
+    {
+        "prefix": "C", 
+        "word": "参", 
+        "jpword": "参照", 
+        "kana": "cān zhào ", 
+        "mean": "参照，参阅，参看", 
+        "sample": "第一章を参照せよ/参照第一章"
+    }, 
+    {
+        "prefix": "C", 
+        "word": "操", 
+        "jpword": "操作", 
+        "kana": "cāo zuò ", 
+        "mean": "操纵，驾驶，操作，安排", 
+        "sample": "レバーを操作する/操作杆"
+    }, 
+    {
+        "prefix": "C", 
+        "word": "草", 
+        "jpword": "草案", 
+        "kana": "cǎo àn ", 
+        "mean": "草案，底稿，草稿", 
+        "sample": "憲法の草案/宪法草案"
+    }, 
+    {
+        "prefix": "C", 
+        "word": "策", 
+        "jpword": "策略", 
+        "kana": "cè luè ", 
+        "mean": "策略，计策，计谋", 
+        "sample": "策略をめぐらす/计划策略"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "刹", 
+        "jpword": "刹那", 
+        "kana": "shā nà ", 
+        "mean": "刹那，瞬间，顷刻", 
+        "sample": "刹那の快楽を求める/追求刹那的快乐"
+    }, 
+    {
+        "prefix": "C", 
+        "word": "超", 
+        "jpword": "超越", 
+        "kana": "chāo yuè ", 
+        "mean": "超越，超绝，超出，超脱", 
+        "sample": "世俗を超越した生活。/超越世俗的生活。"
+    }, 
+    {
+        "prefix": "C", 
+        "word": "潮", 
+        "jpword": "潮流", 
+        "kana": "cháo liú ", 
+        "mean": "潮流，海流，潮流", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "C", 
+        "word": "撤", 
+        "jpword": "撤退", 
+        "kana": "chè tuì ", 
+        "mean": "撤退", 
+        "sample": "外国軍隊を撤退させる。/使外国军队撤走。"
+    }, 
+    {
+        "prefix": "C", 
+        "word": "称", 
+        "jpword": "称号", 
+        "kana": "chēng hào ", 
+        "mean": "名称，称号", 
+        "sample": "博士の称号/博士的称号"
+    }, 
+    {
+        "prefix": "C", 
+        "word": "称", 
+        "jpword": "称呼", 
+        "kana": "chēng hū ", 
+        "mean": "称呼，名称", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "C", 
+        "word": "成", 
+        "jpword": "成功", 
+        "kana": "chéng gōng ", 
+        "mean": "成功，成就，胜利，功成名就，成功立业", 
+        "sample": "実験が成功する/实验成功"
+    }, 
+    {
+        "prefix": "C", 
+        "word": "成", 
+        "jpword": "成熟", 
+        "kana": "chéng shú ", 
+        "mean": "成熟，发育成熟，成熟", 
+        "sample": "寒波のため果物の成熟がおそい/因为寒潮的袭击果实成熟得晚"
+    }, 
+    {
+        "prefix": "C", 
+        "word": "池", 
+        "jpword": "池塘", 
+        "kana": "chí táng ", 
+        "mean": "池塘，贮水池", 
+        "sample": "道に沿って池塘があった/沿着路，有一个池塘。"
+    }, 
+    {
+        "prefix": "C", 
+        "word": "赤", 
+        "jpword": "赤字", 
+        "kana": "chì zì ", 
+        "mean": "赤字，红字", 
+        "sample": "商売は赤字だ/买卖亏本。"
+    }, 
+    {
+        "prefix": "C", 
+        "word": "崇", 
+        "jpword": "崇高", 
+        "kana": "chóng gāo ", 
+        "mean": "崇高，高尚", 
+        "sample": "崇高な精神/崇高精神"
+    }, 
+    {
+        "prefix": "C", 
+        "word": "崇", 
+        "jpword": "崇敬", 
+        "kana": "chóng jìng ", 
+        "mean": "崇敬，崇拜", 
+        "sample": "聖母マリアを崇敬する/崇敬圣母玛莉亚"
+    }, 
+    {
+        "prefix": "C", 
+        "word": "出", 
+        "jpword": "出生", 
+        "kana": "chū shēng ", 
+        "mean": "出生，诞生", 
+        "sample": "わが家に男児出生/我家生了一个男孩儿"
+    }, 
+    {
+        "prefix": "C", 
+        "word": "船", 
+        "jpword": "船舶", 
+        "kana": "chuán bó ", 
+        "mean": "船舶，船只", 
+        "sample": "船舶修理用ドック/修船用的船坞"
+    }, 
+    {
+        "prefix": "C", 
+        "word": "垂", 
+        "jpword": "垂直", 
+        "kana": "chuí zhí ", 
+        "mean": "垂直，垂直", 
+        "sample": "柱を垂直に立てる/垂直立柱"
+    }, 
+    {
+        "prefix": "C", 
+        "word": "雌", 
+        "jpword": "雌雄", 
+        "kana": "cí xióng ", 
+        "mean": "雌雄，优劣，胜负", 
+        "sample": "雌雄を判別する/判别雌雄"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "答", 
+        "jpword": "答案", 
+        "kana": "dá àn ", 
+        "mean": "卷子，卷儿，试卷，答卷", 
+        "sample": "答案を書く。／写答案"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "大", 
+        "jpword": "大意", 
+        "kana": "dà yì ", 
+        "mean": "大意，要旨", 
+        "sample": "文章の大意。/文章的要旨。"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "逮", 
+        "jpword": "逮捕", 
+        "kana": "dǎi bǔ ", 
+        "mean": "逮捕，拘捕，捉拿", 
+        "sample": "犯人の逮捕に全力をあげた。/全力以赴捉拿罪犯。"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "代", 
+        "jpword": "代理", 
+        "kana": "dài lǐ ", 
+        "mean": "代理，代替，代理人", 
+        "sample": "社長の代理をする。/代理经理工作。"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "代", 
+        "jpword": "代替", 
+        "kana": "dài tì ", 
+        "mean": "代替", 
+        "sample": "路面電車を廃止しバスで代替する。/舍弃路面列车用巴士代替。"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "怠", 
+        "jpword": "怠慢", 
+        "kana": "dài màn ", 
+        "mean": "懈怠，玩忽，怠慢", 
+        "sample": "職務怠慢で免職になった。/因玩忽职守而免职。"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "担", 
+        "jpword": "担保", 
+        "kana": "dān bǎo ", 
+        "mean": "抵押", 
+        "sample": "担保を入れる。/交抵押。"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "淡", 
+        "jpword": "淡水", 
+        "kana": "dàn shuǐ ", 
+        "mean": "淡水", 
+        "sample": "淡水魚。/淡水鱼。"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "当", 
+        "jpword": "当初", 
+        "kana": "dāng chū ", 
+        "mean": "当初，最初", 
+        "sample": "当初の予定を早める。／提前实现当初的预定。"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "当", 
+        "jpword": "当地", 
+        "kana": "dāng dì ", 
+        "mean": "当地，本地，此地", 
+        "sample": "当地は冬でも暖かい。/当地冬天也很暖和。"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "当", 
+        "jpword": "当然", 
+        "kana": "dāng rán ", 
+        "mean": "当然，应当，应该，理所当然", 
+        "sample": "当然彼女は知らない。／她当然不知道。"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "盗", 
+        "jpword": "盗窃", 
+        "kana": "dào qiè ", 
+        "mean": "盗窃", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "D", 
+        "word": "得", 
+        "jpword": "得意", 
+        "kana": "dé yì ", 
+        "mean": "得意，满意", 
+        "sample": "得意の絶頂。/得意到极点。"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "抵", 
+        "jpword": "抵抗", 
+        "kana": "dǐ kàng ", 
+        "mean": "抵抗，反抗，抗拒，反抗", 
+        "sample": "むだな抵抗／无益的抵抗。 "
+    }, 
+    {
+        "prefix": "D", 
+        "word": "地", 
+        "jpword": "地方", 
+        "kana": "dì fāng ", 
+        "mean": "地方，地区，地方，外地", 
+        "sample": "コレラが流行している地方/正闹霍乱的地区。"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "地", 
+        "jpword": "地球", 
+        "kana": "dì qiú ", 
+        "mean": "地球", 
+        "sample": "地球の軌道。/地球轨道。"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "第", 
+        "jpword": "第一", 
+        "kana": "dì yī ", 
+        "mean": "第一，首屈一指，最好", 
+        "sample": "まず第一になにをやろう。/首先我要做什么呢。"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "典", 
+        "jpword": "典礼", 
+        "kana": "diǎn lǐ ", 
+        "mean": "典礼，仪式", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "D", 
+        "word": "典", 
+        "jpword": "典型", 
+        "kana": "diǎn xíng ", 
+        "mean": "典型", 
+        "sample": "典型的な日本婦人。/典型的日本妇女。"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "定", 
+        "jpword": "定期", 
+        "kana": "dìng qī ", 
+        "mean": "定期", 
+        "sample": "定期に開催する。/定期召开。"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "洞", 
+        "jpword": "洞穴", 
+        "kana": "dòng xué ", 
+        "mean": "洞穴，洞穴", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "D", 
+        "word": "都", 
+        "jpword": "都市", 
+        "kana": "dōu shì ", 
+        "mean": "都市，城市", 
+        "sample": "都市と農村の較差。／城乡差别。 "
+    }, 
+    {
+        "prefix": "D", 
+        "word": "督", 
+        "jpword": "督促", 
+        "kana": "dū cù ", 
+        "mean": "督促，催促", 
+        "sample": "督促の手紙を書く。/写催促信。"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "独", 
+        "jpword": "独裁", 
+        "kana": "dú cái ", 
+        "mean": "独裁，专政", 
+        "sample": "独裁政治。/独裁政治。"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "断", 
+        "jpword": "断定", 
+        "kana": "duàn dìng ", 
+        "mean": "断定，判断，判定", 
+        "sample": "精神が錯乱していたものと断定せざるをえない。/不得不断定为神经错乱。"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "堕", 
+        "jpword": "堕落", 
+        "kana": "duò luò ", 
+        "mean": "堕落，走下坡路", 
+        "sample": "彼は堕落してばくちばかりしている。/他堕落得光赌钱。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "法", 
+        "jpword": "法律", 
+        "kana": "fǎ lǜ ", 
+        "mean": "法律", 
+        "sample": "法律制度。/法制。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "法", 
+        "jpword": "法人", 
+        "kana": "fǎ rén ", 
+        "mean": "法人", 
+        "sample": "財団法人。/财团法人。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "繁", 
+        "jpword": "繁忙", 
+        "kana": "fán máng ", 
+        "mean": "繁忙", 
+        "sample": "繁忙をきわめる。/极其繁忙。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "繁", 
+        "jpword": "繁殖", 
+        "kana": "fán zhí ", 
+        "mean": "繁殖，孳生，滋生", 
+        "sample": "繁殖期/繁殖期。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "反", 
+        "jpword": "反感", 
+        "kana": "fǎn gǎn ", 
+        "mean": "反感", 
+        "sample": "反感を買う。/激起反感。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "反", 
+        "jpword": "反抗", 
+        "kana": "fǎn kàng ", 
+        "mean": "反抗", 
+        "sample": "命令に反抗する。/违抗命令。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "反", 
+        "jpword": "反面", 
+        "kana": "fǎn miàn ", 
+        "mean": "反面，另一面", 
+        "sample": "律義な反面気が利かない。/忠厚老实另一面是不灵活。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "反", 
+        "jpword": "反射", 
+        "kana": "fǎn shè ", 
+        "mean": "反射", 
+        "sample": "条件反射。/条件反射。 "
+    }, 
+    {
+        "prefix": "F", 
+        "word": "反", 
+        "jpword": "反映", 
+        "kana": "fǎn yìng ", 
+        "mean": "反射，反映", 
+        "sample": "世論が議会に反映する/舆论反映到议会。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "方", 
+        "jpword": "方法", 
+        "kana": "fāng fǎ ", 
+        "mean": "方法，法子，办法", 
+        "sample": "最良の方法。/最好的方法。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "方", 
+        "jpword": "方面", 
+        "kana": "fāng miàn ", 
+        "mean": "方面，领域，地区", 
+        "sample": "教育の方面から見れば。 /从教育方面来看。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "方", 
+        "jpword": "方位", 
+        "kana": "fāng wèi ", 
+        "mean": "方位", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "F", 
+        "word": "方", 
+        "jpword": "方向", 
+        "kana": "fāng xiàng ", 
+        "mean": "方向，方针", 
+        "sample": "方向を誤る。/走错方向。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "方", 
+        "jpword": "方言", 
+        "kana": "fāng yán ", 
+        "mean": "方言，地方话，土话", 
+        "sample": "故郷の方言で話す。/用故乡的方言谈话。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "防", 
+        "jpword": "防御", 
+        "kana": "fáng yù ", 
+        "mean": "防御", 
+        "sample": "攻撃は最大の防御なり。/进攻是最好的防御。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "防", 
+        "jpword": "防止", 
+        "kana": "fáng zhǐ ", 
+        "mean": "防止", 
+        "sample": "伝染病を防止する。 /防止（预防）传染病。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "放", 
+        "jpword": "放射", 
+        "kana": "fàng shè ", 
+        "mean": "放射，辐射", 
+        "sample": "中心から放射する車の輻。/从中心放射的车轮的辐条"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "非", 
+        "jpword": "非常", 
+        "kana": "fēi cháng ", 
+        "mean": "紧急，紧迫，非常，特别", 
+        "sample": "非常にうれしい/非常高兴"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "肥", 
+        "jpword": "肥沃", 
+        "kana": "féi wò ", 
+        "mean": "肥沃", 
+        "sample": "肥沃な土地/肥沃的土地"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "分", 
+        "jpword": "分解", 
+        "kana": "fèn jiě ", 
+        "mean": "拆开，拆卸，分析，分为", 
+        "sample": "自転車を分解する/拆卸自行车"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "分", 
+        "jpword": "分裂", 
+        "kana": "fèn liè ", 
+        "mean": "分裂，裂开", 
+        "sample": "党が二つに分裂する/党一分为二"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "分", 
+        "jpword": "分泌", 
+        "kana": "fèn mì ", 
+        "mean": "分泌", 
+        "sample": "胃液の分泌/胃液的分泌"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "分", 
+        "jpword": "分明", 
+        "kana": "fèn míng ", 
+        "mean": "清楚，分明", 
+        "sample": "両者の違いを分明にする/将两者的区别弄清楚"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "分", 
+        "jpword": "分散", 
+        "kana": "fèn sàn ", 
+        "mean": "分散，散开，色散，频散", 
+        "sample": "各地に分散する/分散在各地"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "粉", 
+        "jpword": "粉末", 
+        "kana": "fěn mò ", 
+        "mean": "粉末", 
+        "sample": "粉末ジュース/粉末果汁"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "封", 
+        "jpword": "封建", 
+        "kana": "fēng jiàn ", 
+        "mean": "封建", 
+        "sample": "封建的な考え方/封建的想法"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "夫", 
+        "jpword": "夫人", 
+        "kana": "fū rén ", 
+        "mean": "夫人", 
+        "sample": "社長夫人/社長夫人"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "敷", 
+        "jpword": "敷衍", 
+        "kana": "fū yǎn ", 
+        "mean": "详述，细说", 
+        "sample": "師説を敷衍する/详述师说。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "符", 
+        "jpword": "符号", 
+        "kana": "fú hào ", 
+        "mean": "符号，记号", 
+        "sample": "電信符号/电子信息的符号。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "符", 
+        "jpword": "符合", 
+        "kana": "fú hé ", 
+        "mean": "符合，相合，相符，吻合", 
+        "sample": "二人の言うことが符合する/他们俩的说辞一致。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "福", 
+        "jpword": "福利", 
+        "kana": "fú lì ", 
+        "mean": "福利", 
+        "sample": "法定福利/法定的福利。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "腐", 
+        "jpword": "腐朽", 
+        "kana": "fǔ xiǔ ", 
+        "mean": "腐朽，朽烂", 
+        "sample": "材木の腐朽/竹木腐朽。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "副", 
+        "jpword": "副作用", 
+        "kana": "fù zuò yòng ", 
+        "mean": "副作用", 
+        "sample": "薬の副作用/药的副作用"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "富", 
+        "jpword": "富裕", 
+        "kana": "fù yù ", 
+        "mean": "富裕", 
+        "sample": "富裕税/富裕税。"
+    }, 
+    {
+        "prefix": "G", 
+        "word": "改", 
+        "jpword": "改良", 
+        "kana": "gǎi liáng ", 
+        "mean": "改良", 
+        "sample": "機械を改良する。/改良机械。"
+    }, 
+    {
+        "prefix": "G", 
+        "word": "感", 
+        "jpword": "感冒", 
+        "kana": "gǎn mào ", 
+        "mean": "感冒，伤风", 
+        "sample": "感冒にかかる。/感冒。"
+    }, 
+    {
+        "prefix": "G", 
+        "word": "根", 
+        "jpword": "根源", 
+        "kana": "gēn yuán ", 
+        "mean": "根源", 
+        "sample": "事件の根源/事件的根源"
+    }, 
+    {
+        "prefix": "G", 
+        "word": "孤", 
+        "jpword": "孤立", 
+        "kana": "gū lì ", 
+        "mean": "孤立", 
+        "sample": "国際的孤立/国际上的孤立"
+    }, 
+    {
+        "prefix": "G", 
+        "word": "固", 
+        "jpword": "固有", 
+        "kana": "gù yǒu ", 
+        "mean": "固有，特有，天生", 
+        "sample": "各人に固有の性質/各人固有的秉性 "
+    }, 
+    {
+        "prefix": "G", 
+        "word": "管", 
+        "jpword": "管理", 
+        "kana": "guǎn lǐ ", 
+        "mean": "管理，管辖", 
+        "sample": "管理能力/管理能力"
+    }, 
+    {
+        "prefix": "G", 
+        "word": "棍", 
+        "jpword": "棍棒", 
+        "kana": "gùn bàng ", 
+        "mean": "棍子，根儿，棒子，瓶状棒", 
+        "sample": "棍棒でなぐる/用棒子打"
+    }, 
+    {
+        "prefix": "H", 
+        "word": "悔", 
+        "jpword": "悔恨", 
+        "kana": "huǐ hèn ", 
+        "mean": "悔恨", 
+        "sample": "悔恨の情/悔恨之情"
+    }, 
+    {
+        "prefix": "H", 
+        "word": "昏", 
+        "jpword": "昏迷", 
+        "kana": "hūn mí ", 
+        "mean": "昏迷，迷惘", 
+        "sample": "昏迷に陥る/陷入昏迷"
+    }, 
+    {
+        "prefix": "H", 
+        "word": "混", 
+        "jpword": "混合", 
+        "kana": "hún hé ", 
+        "mean": "混合", 
+        "sample": "数種のスパイスを混合した調味料/数种香料混合而成的调味料"
+    }, 
+    {
+        "prefix": "H", 
+        "word": "混", 
+        "jpword": "混乱", 
+        "kana": "hún luàn ", 
+        "mean": "混乱", 
+        "sample": "混乱状態にある/处于混乱状态"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "基", 
+        "jpword": "基地", 
+        "kana": "jī dì ", 
+        "mean": "基地，根据地", 
+        "sample": "基地を建設する。/建设基地。"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "基", 
+        "jpword": "基金", 
+        "kana": "jī jīn ", 
+        "mean": "基金", 
+        "sample": "基金を設ける。/设立基金。"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "疾", 
+        "jpword": "疾病", 
+        "kana": "jí bìng ", 
+        "mean": "疾病", 
+        "sample": "疾病への対策/疾病的治疗法"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "加", 
+        "jpword": "加工", 
+        "kana": "jiā gōng ", 
+        "mean": "加工", 
+        "sample": "加工原料。/加工的原料。"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "佳", 
+        "jpword": "佳肴", 
+        "kana": "jiā yáo ", 
+        "mean": "佳肴", 
+        "sample": "珍味佳肴。/山珍海味。"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "交", 
+        "jpword": "交流", 
+        "kana": "jiāo liú ", 
+        "mean": "交流，往来，交流", 
+        "sample": "東西の文化が交流する/东西文化交流"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "交", 
+        "jpword": "交通", 
+        "kana": "jiāo tōng ", 
+        "mean": "交通", 
+        "sample": "交通の便がよい/交通方便，四通八达"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "焦", 
+        "jpword": "焦点", 
+        "kana": "jiāo diǎn ", 
+        "mean": "焦点，焦点，中心", 
+        "sample": "焦点を定める/定焦"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "接", 
+        "jpword": "接受", 
+        "kana": "jiē shòu ", 
+        "mean": "接受，接收", 
+        "sample": "命令をば此状況の下に接受した/在这种状况下接受命令"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "金", 
+        "jpword": "金融", 
+        "kana": "jīn róng ", 
+        "mean": "金融，通融资金，信贷", 
+        "sample": "金融会社。/信贷公司。"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "近", 
+        "jpword": "近来", 
+        "kana": "jìn lái ", 
+        "mean": "近来，近日，最近", 
+        "sample": "近来まれな事件。/近来少有的事件。"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "精", 
+        "jpword": "精密", 
+        "kana": "jīng mì ", 
+        "mean": "精密，细致，精细，精确", 
+        "sample": "精密に検査する/精密检查"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "精", 
+        "jpword": "精神", 
+        "kana": "jīng shén ", 
+        "mean": "精神，心神，精神，思想", 
+        "sample": "健全なる精神は健全なる身体に宿る/健全的精神寓于健全的身体"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "精", 
+        "jpword": "精通", 
+        "kana": "jīng tōng ", 
+        "mean": "精通，通晓", 
+        "sample": "漢学に精通する/精通汉学"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "警", 
+        "jpword": "警察", 
+        "kana": "jǐng chá ", 
+        "mean": "警察，公安局", 
+        "sample": "警察に呼び出される/被警察叫去"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "警", 
+        "jpword": "警告", 
+        "kana": "jǐng gào ", 
+        "mean": "警告", 
+        "sample": "警告を発する/发出警告"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "酒", 
+        "jpword": "酒精", 
+        "kana": "jiǔ jīng ", 
+        "mean": "酒精", 
+        "sample": "酒精飲料/酒精饮料"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "拘", 
+        "jpword": "拘留", 
+        "kana": "jū liú ", 
+        "mean": "扣押，关押", 
+        "sample": "拘留5日に処せられた/被处以拘留五天"
+    }, 
+    {
+        "prefix": "K", 
+        "word": "科", 
+        "jpword": "科目", 
+        "kana": "kē mù ", 
+        "mean": "科目", 
+        "sample": "試験科目/考试科目"
+    }, 
+    {
+        "prefix": "K", 
+        "word": "可", 
+        "jpword": "可能", 
+        "kana": "kě néng ", 
+        "mean": "可能", 
+        "sample": "可能な範囲で。/在可能的范围内。"
+    }, 
+    {
+        "prefix": "K", 
+        "word": "空", 
+        "jpword": "空白", 
+        "kana": "kōng bái ", 
+        "mean": "空白", 
+        "sample": "政治上の空白/政治上的空白"
+    }, 
+    {
+        "prefix": "K", 
+        "word": "空", 
+        "jpword": "空洞", 
+        "kana": "kōng dòng ", 
+        "mean": "空洞", 
+        "sample": "空洞をあける/打洞挖窟窿 "
+    }, 
+    {
+        "prefix": "K", 
+        "word": "空", 
+        "jpword": "空想", 
+        "kana": "kōng xiǎng ", 
+        "mean": "空想", 
+        "sample": "空想にふける/耽于空想"
+    }, 
+    {
+        "prefix": "K", 
+        "word": "空", 
+        "jpword": "空虚", 
+        "kana": "kōng xū ", 
+        "mean": "空虚", 
+        "sample": "空虚なる財布/空空的钱包"
+    }, 
+    {
+        "prefix": "K", 
+        "word": "快", 
+        "jpword": "快活", 
+        "kana": "kuài huó ", 
+        "mean": "快活", 
+        "sample": "快活な顔つき/快活的面孔；和颜悦色"
+    }, 
+    {
+        "prefix": "K", 
+        "word": "昆", 
+        "jpword": "昆虫", 
+        "kana": "kūn chóng ", 
+        "mean": "昆虫", 
+        "sample": "昆虫の警戒色/昆虫的警戒色"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "埋", 
+        "jpword": "埋没", 
+        "kana": "mái méi ", 
+        "mean": "埋藏，掩埋，埋没，埋没", 
+        "sample": "世間に埋没した偉才。/世上被埋没的人才。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "埋", 
+        "jpword": "埋葬", 
+        "kana": "mái zàng ", 
+        "mean": "埋葬", 
+        "sample": "埋葬とは死者を土の中に埋めることである。/埋葬是指把死者埋在土里。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "蔓", 
+        "jpword": "蔓延", 
+        "kana": "màn yán ", 
+        "mean": "蔓延", 
+        "sample": "チフスの蔓延を防ぐ/防止伤寒蔓延"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "漫", 
+        "jpword": "漫画", 
+        "kana": "màn huà ", 
+        "mean": "漫画，连环画，动画片", 
+        "sample": "漫画をかく。/画漫画。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "慢", 
+        "jpword": "慢性", 
+        "kana": "màn xìng ", 
+        "mean": "慢性", 
+        "sample": "慢性の神経衰弱/慢性神经衰弱"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "盲", 
+        "jpword": "盲目", 
+        "kana": "máng mù ", 
+        "mean": "盲，失明，盲人，没有理智", 
+        "sample": "盲目の愛/溺爱"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "茫", 
+        "jpword": "茫茫", 
+        "kana": "máng máng ", 
+        "mean": "茫茫，漠漠", 
+        "sample": "茫茫とした大海原/茫茫大海。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "茫", 
+        "jpword": "茫然", 
+        "kana": "máng rán ", 
+        "mean": "茫然，模糊，渺茫", 
+        "sample": "茫然とした前途/前途茫然。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "帽", 
+        "jpword": "帽子", 
+        "kana": "mào zǐ ", 
+        "mean": "帽子", 
+        "sample": "帽子を取りなさい。 /把帽子摘掉吧！"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "眉", 
+        "jpword": "眉毛", 
+        "kana": "méi máo ", 
+        "mean": "眉毛", 
+        "sample": "眉毛の形が顔全体の印象まで変えて しまいます。/眉毛的形状把对整个脸的印象都改变了。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "媒", 
+        "jpword": "媒介", 
+        "kana": "méi jiè ", 
+        "mean": "媒介，传播", 
+        "sample": " 病原菌を媒介する。/传播病菌。 "
+    }, 
+    {
+        "prefix": "M", 
+        "word": "媒", 
+        "jpword": "媒体", 
+        "kana": "méi tǐ ", 
+        "mean": "媒介物，手段，介质，媒质", 
+        "sample": "宣伝広告の媒体。/（指报纸、杂志、广播、电视等）宣传广告的媒介。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "美", 
+        "jpword": "美妙", 
+        "kana": "měi miào ", 
+        "mean": "美妙", 
+        "sample": "自然が与えた美妙な優しい心/自然所给予美妙的好心"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "萌", 
+        "jpword": "萌芽", 
+        "kana": "méng yá ", 
+        "mean": "萌芽，征兆，苗头", 
+        "sample": "彼の才能の萌芽は幼少のころに見ることが出来る。/他的才能的萌芽小时候就能看出来。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "猛", 
+        "jpword": "猛烈", 
+        "kana": "měng liè ", 
+        "mean": "猛烈，凶猛，激烈", 
+        "sample": "敵の猛烈な攻撃を退ける。/打退敌人的猛烈进攻。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "迷", 
+        "jpword": "迷信", 
+        "kana": "mí xìn ", 
+        "mean": "迷信", 
+        "sample": "われわれは迷信を打ち破り,新機軸を出し,大胆な独創精神を発揮すべきである。/我们要打破迷信标新立异,发挥大胆独创的精神。 "
+    }, 
+    {
+        "prefix": "M", 
+        "word": "密", 
+        "jpword": "密度", 
+        "kana": "mì dù ", 
+        "mean": "密度，密度，周密", 
+        "sample": "人口の密度/人口密度"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "密", 
+        "jpword": "密封", 
+        "kana": "mì fēng ", 
+        "mean": "密封，严密封闭", 
+        "sample": "密封された文書/密封的文件"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "免", 
+        "jpword": "免疫", 
+        "kana": "miǎn yì ", 
+        "mean": "免疫，满不在乎，司空见惯", 
+        "sample": "一度この病気にかかると後は免疫になる。/这个病得过一次以后就免疫了。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "勉", 
+        "jpword": "勉励", 
+        "kana": "miǎn lì ", 
+        "mean": "勤勉，勤奋", 
+        "sample": "学業に勉励する/勤奋学习。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "面", 
+        "jpword": "面貌", 
+        "kana": "miàn mào ", 
+        "mean": "面貌，容貌，面貌，外貌", 
+        "sample": "面貌を異にする/面貌各异"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "民", 
+        "jpword": "民主", 
+        "kana": "mín zhǔ ", 
+        "mean": "民主，民主主义", 
+        "sample": "彼の仕事ぶりは民主的である。/他作风民主。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "民", 
+        "jpword": "民族", 
+        "kana": "mín zú ", 
+        "mean": "民族", 
+        "sample": "いかなる大国も弱小民族を蔑視してはいけない。/任何大国对弱小民族都不能藐视。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "敏", 
+        "jpword": "敏感", 
+        "kana": "mǐn gǎn ", 
+        "mean": "敏感，感觉敏锐，灵敏", 
+        "sample": "気温の変化に敏感な人/对气温变化敏感的人"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "敏", 
+        "jpword": "敏捷", 
+        "kana": "mǐn jié ", 
+        "mean": "敏捷，机敏，灵活", 
+        "sample": "敏捷な動き/敏捷的动作"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "名", 
+        "jpword": "名誉", 
+        "kana": "míng yù ", 
+        "mean": "名誉，荣誉，光荣，名誉", 
+        "sample": "そんなことをすると君の不名誉になる。/做那样的事有损你的名声。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "明", 
+        "jpword": "明白", 
+        "kana": "míng bái ", 
+        "mean": "明白，明显", 
+        "sample": "明白である/一目了然"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "命", 
+        "jpword": "命名", 
+        "kana": "mìng míng ", 
+        "mean": "命名，起名", 
+        "sample": "その子に太郎と命名した。/那个孩子起名叫太郎。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "模", 
+        "jpword": "模式", 
+        "kana": "mó shì ", 
+        "mean": "模式", 
+        "sample": "製品の模式図/产品的模式图"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "模", 
+        "jpword": "模型", 
+        "kana": "mó xíng ", 
+        "mean": "模型", 
+        "sample": "彼は模型を指しながらみんなに説明している。/他指着模型给大家讲解。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "摩", 
+        "jpword": "摩擦", 
+        "kana": "mó cā ", 
+        "mean": "摩擦，摩擦，意见分歧，不和", 
+        "sample": "この力を摩擦力という。/这个力叫做摩擦力。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "目", 
+        "jpword": "目的", 
+        "kana": "mù de ", 
+        "mean": "目的，目标", 
+        "sample": "あの人は目的を達成するためには手段を選ばない。/他为了达到目的，不择手段。"
+    }, 
+    {
+        "prefix": "N", 
+        "word": "耐", 
+        "jpword": "耐用", 
+        "kana": "nài yòng ", 
+        "mean": "耐用，经用", 
+        "sample": "耐用年数。/耐用（使用）年限。"
+    }, 
+    {
+        "prefix": "N", 
+        "word": "内", 
+        "jpword": "内容", 
+        "kana": "nèi róng ", 
+        "mean": "内容", 
+        "sample": "内容のない文章。/毫无内容的文章。"
+    }, 
+    {
+        "prefix": "N", 
+        "word": "内", 
+        "jpword": "内在", 
+        "kana": "nèi zài ", 
+        "mean": "内在，固有", 
+        "sample": "神は人間の心に内在する。/神在人的心中。"
+    }, 
+    {
+        "prefix": "N", 
+        "word": "能", 
+        "jpword": "能力", 
+        "kana": "néng lì ", 
+        "mean": "能力，行为能力", 
+        "sample": "運動能力。/运动能力。"
+    }, 
+    {
+        "prefix": "N", 
+        "word": "年", 
+        "jpword": "年度", 
+        "kana": "nián dù ", 
+        "mean": "年度，年，届", 
+        "sample": "学年度末。/学年度末。"
+    }, 
+    {
+        "prefix": "N", 
+        "word": "努", 
+        "jpword": "努力", 
+        "kana": "nǔ lì ", 
+        "mean": "努力", 
+        "sample": "努力が報いられる。／没白费力。"
+    }, 
+    {
+        "prefix": "O", 
+        "word": "殴", 
+        "jpword": "殴打", 
+        "kana": "ōu dǎ ", 
+        "mean": "殴打，打人", 
+        "sample": "顔面を殴打する。/打脸。"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "排", 
+        "jpword": "排斥", 
+        "kana": "pái chì ", 
+        "mean": "排斥，排挤，抵制", 
+        "sample": "外国製品を排斥する。/排斥外国商品。"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "排", 
+        "jpword": "排除", 
+        "kana": "pái chú ", 
+        "mean": "排除", 
+        "sample": "暴力を排除する。/排除暴力。"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "派", 
+        "jpword": "派遣", 
+        "kana": "pài qiǎn ", 
+        "mean": "派遣，派出", 
+        "sample": "大使を派遣する。/派遣大使。"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "泡", 
+        "jpword": "泡沫", 
+        "kana": "pào mò ", 
+        "mean": "泡沫", 
+        "sample": "泡沫の如く消える。/像泡沫一样瞬间消失"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "配", 
+        "jpword": "配偶", 
+        "kana": "pèi ǒu ", 
+        "mean": "配偶，夫妇", 
+        "sample": "いい配偶を得る。/找到好配偶。"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "盆", 
+        "jpword": "盆地", 
+        "kana": "pén dì ", 
+        "mean": "盆地", 
+        "sample": "山の間が盆地になっている。/山中间形成一个盆地。"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "批", 
+        "jpword": "批判", 
+        "kana": "pī pàn ", 
+        "mean": "批判，批评，评论", 
+        "sample": "人を批判する/批判别人"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "皮", 
+        "jpword": "皮革", 
+        "kana": "pí gé ", 
+        "mean": "皮革", 
+        "sample": "皮革製品/皮革制品"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "偏", 
+        "jpword": "偏差", 
+        "kana": "piān chà ", 
+        "mean": "偏差，偏度，偏差数，偏转", 
+        "sample": "偏差値/偏差值。"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "品", 
+        "jpword": "品行", 
+        "kana": "pǐn háng ", 
+        "mean": "品行，行为", 
+        "sample": "品行を慎む/慎行"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "平", 
+        "jpword": "平等", 
+        "kana": "píng děng ", 
+        "mean": "平等，同等", 
+        "sample": "利益を平等に分配する/利益均分。"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "平", 
+        "jpword": "平凡", 
+        "kana": "píng fán ", 
+        "mean": "平凡，庸碌，通俗", 
+        "sample": "平凡な作品/平凡的作品。"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "平", 
+        "jpword": "平行", 
+        "kana": "píng háng ", 
+        "mean": "平行，并行", 
+        "sample": "平行な二直線を引く/引两天平行直线。"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "平", 
+        "jpword": "平均", 
+        "kana": "píng jun1 ", 
+        "mean": "平均，平均值，平衡，均衡", 
+        "sample": "平均値/平均值。"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "平", 
+        "jpword": "平面", 
+        "kana": "píng miàn ", 
+        "mean": "平面", 
+        "sample": "平面角/平面角。"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "平", 
+        "jpword": "平坦", 
+        "kana": "píng tǎn ", 
+        "mean": "平坦，平坦，平稳", 
+        "sample": "平坦な道/平坦的大道。"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "平", 
+        "jpword": "平原", 
+        "kana": "píng yuán ", 
+        "mean": "平原", 
+        "sample": "大平原/大平原。"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "迫", 
+        "jpword": "迫害", 
+        "kana": "pò hài ", 
+        "mean": "迫害，虐待", 
+        "sample": "迫害をこうむる。/遭受迫害。"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "葡", 
+        "jpword": "葡萄", 
+        "kana": "pú táo ", 
+        "mean": "葡萄", 
+        "sample": "葡萄酒/葡萄酒"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "普", 
+        "jpword": "普遍", 
+        "kana": "pǔ biàn ", 
+        "mean": "普遍", 
+        "sample": "人類普遍の原理/人类普遍原理。"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "普", 
+        "jpword": "普及", 
+        "kana": "pǔ jí ", 
+        "mean": "普及", 
+        "sample": "新理論を普及する/普及新理论。"
+    }, 
+    {
+        "prefix": "Q", 
+        "word": "奇", 
+        "jpword": "奇怪", 
+        "kana": "qí guài ", 
+        "mean": "奇怪", 
+        "sample": "奇怪なうわさ。/奇怪的谣传。"
+    }, 
+    {
+        "prefix": "Q", 
+        "word": "奇", 
+        "jpword": "奇妙", 
+        "kana": "qí miào ", 
+        "mean": "奇妙，奇怪", 
+        "sample": "奇妙なこと。/奇事。"
+    }, 
+    {
+        "prefix": "Q", 
+        "word": "器", 
+        "jpword": "器材", 
+        "kana": "qì cái ", 
+        "mean": "器材", 
+        "sample": "実験用の器材。/实验用器材。"
+    }, 
+    {
+        "prefix": "Q", 
+        "word": "器", 
+        "jpword": "器官", 
+        "kana": "qì guān ", 
+        "mean": "器官", 
+        "sample": "消化器官。/消化器官"
+    }, 
+    {
+        "prefix": "Q", 
+        "word": "潜", 
+        "jpword": "潜水", 
+        "kana": "qián shuǐ ", 
+        "mean": "潜水", 
+        "sample": "潜水して海底を探る/潜水探海底"
+    }, 
+    {
+        "prefix": "Q", 
+        "word": "侵", 
+        "jpword": "侵犯", 
+        "kana": "qīn fàn ", 
+        "mean": "侵犯", 
+        "sample": "国境を侵犯する/侵犯国境"
+    }, 
+    {
+        "prefix": "Q", 
+        "word": "晴", 
+        "jpword": "晴朗", 
+        "kana": "qíng lǎng ", 
+        "mean": "晴朗", 
+        "sample": "天気晴朗/天气晴朗"
+    }, 
+    {
+        "prefix": "Q", 
+        "word": "屈", 
+        "jpword": "屈服", 
+        "kana": "qū fú ", 
+        "mean": "屈服", 
+        "sample": "敵に屈服する。/向敌人投降。"
+    }, 
+    {
+        "prefix": "Q", 
+        "word": "趣", 
+        "jpword": "趣味", 
+        "kana": "qù wèi ", 
+        "mean": "趣味，风趣，情趣，趣味", 
+        "sample": "趣味豊かに飾られた部屋/装饰得很有风趣的房间"
+    }, 
+    {
+        "prefix": "R", 
+        "word": "忍", 
+        "jpword": "忍耐", 
+        "kana": "rěn nài ", 
+        "mean": "忍耐", 
+        "sample": "忍耐力。/忍耐力。"
+    }, 
+    {
+        "prefix": "R", 
+        "word": "任", 
+        "jpword": "任命", 
+        "kana": "rèn mìng ", 
+        "mean": "任命", 
+        "sample": "彼は校長に任命された。/他被任命为校长。"
+    }, 
+    {
+        "prefix": "R", 
+        "word": "任", 
+        "jpword": "任意", 
+        "kana": "rèn yì ", 
+        "mean": "任意，随便，随意", 
+        "sample": "任意な方法。/任意的方法。"
+    }, 
+    {
+        "prefix": "R", 
+        "word": "柔", 
+        "jpword": "柔和", 
+        "kana": "róu hé ", 
+        "mean": "温柔，温和，柔顺，和蔼", 
+        "sample": "柔和な顔立ち。/柔和的脸。"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "散", 
+        "jpword": "散文", 
+        "kana": "sàn wén ", 
+        "mean": "散文", 
+        "sample": "散文詩/散文形式的诗"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "色", 
+        "jpword": "色彩", 
+        "kana": "sè cǎi ", 
+        "mean": "颜色，色彩，彩色，倾向", 
+        "sample": "政治的色彩を帯びた発言/带着政治色彩的发言"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "森", 
+        "jpword": "森林", 
+        "kana": "sēn lín ", 
+        "mean": "森林", 
+        "sample": "森林から木を切り出す/由森林采伐木材"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "奢", 
+        "jpword": "奢侈", 
+        "kana": "shē chǐ ", 
+        "mean": "奢侈，阔气，阔绰", 
+        "sample": "奢侈に流れる/阔绰地流淌"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "社", 
+        "jpword": "社会", 
+        "kana": "shè huì ", 
+        "mean": "社会，世间，界，领域", 
+        "sample": "社会の一員/社会的一员"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "呻", 
+        "jpword": "呻吟", 
+        "kana": "shēn yín ", 
+        "mean": "呻吟，愁苦", 
+        "sample": "病床に呻吟する/在病床上呻吟"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "神", 
+        "jpword": "神色", 
+        "kana": "shén sè ", 
+        "mean": "神色，脸色，表情", 
+        "sample": "姫は神色常の如く/公主的神色如故"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "神", 
+        "jpword": "神仙", 
+        "kana": "shén xiān ", 
+        "mean": "神仙，仙人", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "S", 
+        "word": "慎", 
+        "jpword": "慎重", 
+        "kana": "shèn zhòng ", 
+        "mean": "慎重，小心谨慎，稳重，稳健", 
+        "sample": "慎重に審議する/慎重地进行审议"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "生", 
+        "jpword": "生存", 
+        "kana": "shēng cún ", 
+        "mean": "生存", 
+        "sample": "大昔から生存している鳥/从远古就生存的鸟"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "生", 
+        "jpword": "生活", 
+        "kana": "shēng huó ", 
+        "mean": "生活，生计", 
+        "sample": "アリの生活を観察する/观察蚂蚁的生活"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "生", 
+        "jpword": "生理", 
+        "kana": "shēng lǐ ", 
+        "mean": "生理，月经，例假", 
+        "sample": "生理的食塩水/生理盐水"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "生", 
+        "jpword": "生命", 
+        "kana": "shēng mìng ", 
+        "mean": "生命，性命，寿命，生命，命根子", 
+        "sample": "生命にかかわる/性命攸关"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "生", 
+        "jpword": "生物", 
+        "kana": "shēng wù ", 
+        "mean": "生物", 
+        "sample": "生物兵器/生化武器"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "声", 
+        "jpword": "声明", 
+        "kana": "shēng míng ", 
+        "mean": "声明，佛的赞歌", 
+        "sample": "日中共同声明/中日联合声明"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "声", 
+        "jpword": "声音", 
+        "kana": "shēng yīn ", 
+        "mean": "声音，声调，语声，嗓音", 
+        "sample": "彼女は静かな声音で話す/她用静静的声调讲述着"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "盛", 
+        "jpword": "盛行", 
+        "kana": "shèng háng ", 
+        "mean": "盛行，风行", 
+        "sample": "近世初期に盛行した髪形/在近世纪初期盛行的发型"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "失", 
+        "jpword": "失望", 
+        "kana": "shī wàng ", 
+        "mean": "失望", 
+        "sample": "彼にはまったく失望した/对他完全失望了"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "失", 
+        "jpword": "失踪", 
+        "kana": "shī zōng ", 
+        "mean": "失踪，下落不明", 
+        "sample": "事件の後失踪する/事件之后失踪"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "食", 
+        "jpword": "食品", 
+        "kana": "shí pǐn ", 
+        "mean": "食品", 
+        "sample": "食品売り場/食品卖场"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "使", 
+        "jpword": "使命", 
+        "kana": "shǐ mìng ", 
+        "mean": "使命，任务", 
+        "sample": "使命を帯びる/肩负使命"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "使", 
+        "jpword": "使用", 
+        "kana": "shǐ yòng ", 
+        "mean": "用，使用，利用，雇用", 
+        "sample": "午前中第一会議室を使用する/上午使用第一会议室"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "世", 
+        "jpword": "世代", 
+        "kana": "shì dài ", 
+        "mean": "世代，一代，辈", 
+        "sample": "あの連中とは世代が違う/和那家伙不同代"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "手", 
+        "jpword": "手法", 
+        "kana": "shǒu fǎ ", 
+        "mean": "手法，技巧", 
+        "sample": "リアリズムの手法を取り入れる/采用现实主义的手法"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "首", 
+        "jpword": "首都", 
+        "kana": "shǒu dōu ", 
+        "mean": "首都，京师，京城", 
+        "sample": "首都を建設する/建设首都"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "数", 
+        "jpword": "数量", 
+        "kana": "shù liàng ", 
+        "mean": "数和量，数量", 
+        "sample": "おびただしい数量/大量"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "数", 
+        "jpword": "数学", 
+        "kana": "shù xué ", 
+        "mean": "数学", 
+        "sample": "数学に強い/擅长数学"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "数", 
+        "jpword": "数字", 
+        "kana": "shù zì ", 
+        "mean": "数字，数据", 
+        "sample": "具体的な数字を示す/展示具体的数字"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "衰", 
+        "jpword": "衰退", 
+        "kana": "shuāi tuì ", 
+        "mean": "衰退，衰落，衰颓，衰微", 
+        "sample": "国運が衰退する/国运衰退"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "爽", 
+        "jpword": "爽快", 
+        "kana": "shuǎng kuài ", 
+        "mean": "爽快，舒服", 
+        "sample": "気分が爽快になる/精神爽快"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "水", 
+        "jpword": "水利", 
+        "kana": "shuǐ lì ", 
+        "mean": "水运，舟楫之便，水利，用水", 
+        "sample": "水利のよい地/水运方便的地方"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "司", 
+        "jpword": "司法", 
+        "kana": "sī fǎ ", 
+        "mean": "司法", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "S", 
+        "word": "思", 
+        "jpword": "思念", 
+        "kana": "sī niàn ", 
+        "mean": "思念", 
+        "sample": "思念をこらす/陷入思念中"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "思", 
+        "jpword": "思索", 
+        "kana": "sī suǒ ", 
+        "mean": "思索", 
+        "sample": "静かに思索する/静静地思索"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "斯", 
+        "jpword": "斯文", 
+        "kana": "sī wén ", 
+        "mean": "斯文，斯道", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "S", 
+        "word": "死", 
+        "jpword": "死亡", 
+        "kana": "sǐ wáng ", 
+        "mean": "死，死亡", 
+        "sample": "交通事故で死亡する/因交通事故而死亡"
+    }, 
+    {
+        "prefix": "C", 
+        "word": "伺", 
+        "jpword": "伺候", 
+        "kana": "sì hòu ", 
+        "mean": "伺候，请安", 
+        "sample": "権門に伺候して出身の道を求む/伺候权贵来寻找出路"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "速", 
+        "jpword": "速度", 
+        "kana": "sù dù ", 
+        "mean": "速度", 
+        "sample": "自動車の速度/自行车的速度"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "隧", 
+        "jpword": "隧道", 
+        "kana": "suì dào ", 
+        "mean": "隧道，隧洞，山洞", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "T", 
+        "word": "泰", 
+        "jpword": "泰斗", 
+        "kana": "tài dòu ", 
+        "mean": "泰斗，权威，大师", 
+        "sample": "京劇の泰斗。/京剧大师。"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "探", 
+        "jpword": "探索", 
+        "kana": "tàn suǒ ", 
+        "mean": "探索，搜索，搜寻", 
+        "sample": "問題の所在を探索する。/探索问题的所在。"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "特", 
+        "jpword": "特定", 
+        "kana": "tè dìng ", 
+        "mean": "特别指定，特别规定", 
+        "sample": "特定の人だけに見学を許可する/只准许特别规定的人参观。"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "特", 
+        "jpword": "特色", 
+        "kana": "tè sè ", 
+        "mean": "特色，特征，特点，特长", 
+        "sample": "彼は特色のある作家だ/他是有特色的作家。"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "提", 
+        "jpword": "提供", 
+        "kana": "tí gòng ", 
+        "mean": "提供，供给", 
+        "sample": "資料を提供する。／提供资料。 "
+    }, 
+    {
+        "prefix": "T", 
+        "word": "体", 
+        "jpword": "体面", 
+        "kana": "tǐ miàn ", 
+        "mean": "体面，面子", 
+        "sample": "体面を保つ。/保持体面。"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "体", 
+        "jpword": "体系", 
+        "kana": "tǐ xì ", 
+        "mean": "体系，系统", 
+        "sample": "中国語文法の体系。/汉语语法体系。"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "体", 
+        "jpword": "体育", 
+        "kana": "tǐ yù ", 
+        "mean": "体育", 
+        "sample": "体育の授業。/体育课。"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "天", 
+        "jpword": "天才", 
+        "kana": "tiān cái ", 
+        "mean": "天才", 
+        "sample": "彼女は語学の天才だ。/她是个语言学的天才。"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "天", 
+        "jpword": "天堂", 
+        "kana": "tiān táng ", 
+        "mean": "天堂，天国，极乐世界", 
+        "sample": "天堂と地獄。/天堂和地狱。"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "停", 
+        "jpword": "停泊", 
+        "kana": "tíng bó ", 
+        "mean": "停泊，抛锚", 
+        "sample": "停泊地。/停泊地。"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "停", 
+        "jpword": "停止", 
+        "kana": "tíng zhǐ ", 
+        "mean": "停，停止，禁止，停住", 
+        "sample": "エンジンを停止する。／关上引擎；关上发动机。 "
+    }, 
+    {
+        "prefix": "T", 
+        "word": "停", 
+        "jpword": "停滞", 
+        "kana": "tíng zhì ", 
+        "mean": "停滞，停顿，滞销，积压", 
+        "sample": "作業が停滞する。/工作停滞。"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "通", 
+        "jpword": "通俗", 
+        "kana": "tōng sú ", 
+        "mean": "通俗，易懂，庸俗", 
+        "sample": "通俗的な意見。/通俗的意见。"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "通", 
+        "jpword": "通用", 
+        "kana": "tōng yòng ", 
+        "mean": "通用，通行，兼用，两用", 
+        "sample": "各室通用のかぎ。/各个房间通用的钥匙。"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "通", 
+        "jpword": "通知", 
+        "kana": "tōng zhī ", 
+        "mean": "通知，告知", 
+        "sample": "通知を出す/发出通知；通告。"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "同", 
+        "jpword": "同胞", 
+        "kana": "tóng bāo ", 
+        "mean": "同胞，亲兄弟姐妹，同胞同胞はらから同胞，兄弟", 
+        "sample": "同胞である私以外の6人の兄弟姉妹の事が、気にかかります。/担心与我一母同胞的6个兄弟姐妹的事。"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "同", 
+        "jpword": "同情", 
+        "kana": "tóng qíng ", 
+        "mean": "同情", 
+        "sample": "彼に心から同情する。/我衷心同情他。"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "同", 
+        "jpword": "同意", 
+        "kana": "tóng yì ", 
+        "mean": "同义，意见相同，同意，赞成", 
+        "sample": "提案に同意する。／赞成提议。 "
+    }, 
+    {
+        "prefix": "T", 
+        "word": "痛", 
+        "jpword": "痛快", 
+        "kana": "tòng kuài ", 
+        "mean": "痛快，愉快，快活", 
+        "sample": "痛快な冒険小説。/酣畅淋漓的冒险小说。"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "投", 
+        "jpword": "投降", 
+        "kana": "tóu jiàng ", 
+        "mean": "投降", 
+        "sample": "敵兵が投降してきた。/敌兵来投降。"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "投", 
+        "jpword": "投票", 
+        "kana": "tóu piào ", 
+        "mean": "投票", 
+        "sample": "投票で決める。／以投票决定。"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "突", 
+        "jpword": "突出", 
+        "kana": "tū chū ", 
+        "mean": "突出", 
+        "sample": "岬がずっと海に突出している。/岬角远远得在海中突出。"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "突", 
+        "jpword": "突破", 
+        "kana": "tū pò ", 
+        "mean": "突破，冲破，超过", 
+        "sample": "敵の包囲を突破する/突破敌人的包围。"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "突", 
+        "jpword": "突然", 
+        "kana": "tū rán ", 
+        "mean": "突然", 
+        "sample": "彼は突然やってきた。/他突然来了。"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "徒", 
+        "jpword": "徒弟", 
+        "kana": "tú dì ", 
+        "mean": "学徒，徒弟，门人，弟子", 
+        "sample": "徒弟制度。/徒弟制度。"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "推", 
+        "jpword": "推理", 
+        "kana": "tuī lǐ ", 
+        "mean": "推理，推论，推断", 
+        "sample": "推理小説/侦探小说"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "妥", 
+        "jpword": "妥当", 
+        "kana": "tuǒ dāng ", 
+        "mean": "妥当，妥善", 
+        "sample": "妥当な意見をのべる。/讲稳妥的意见"
+    }, 
+    {
+        "prefix": "W", 
+        "word": "完", 
+        "jpword": "完成", 
+        "kana": "wán chéng ", 
+        "mean": "完成", 
+        "sample": "6月に完成の予定/预定六月完成"
+    }, 
+    {
+        "prefix": "W", 
+        "word": "玩", 
+        "jpword": "玩弄", 
+        "kana": "wán nòng ", 
+        "mean": "玩弄，戏弄", 
+        "sample": "人を玩弄する/玩弄别人"
+    }, 
+    {
+        "prefix": "W", 
+        "word": "挽", 
+        "jpword": "挽回", 
+        "kana": "wǎn huí ", 
+        "mean": "挽回", 
+        "sample": "損失を挽回する。/挽回损失。"
+    }, 
+    {
+        "prefix": "W", 
+        "word": "往", 
+        "jpword": "往事", 
+        "kana": "wǎng shì ", 
+        "mean": "往事，过去的事情", 
+        "sample": "往事は帰らず。/往事不复返．"
+    }, 
+    {
+        "prefix": "W", 
+        "word": "往", 
+        "jpword": "往往", 
+        "kana": "wǎng wǎng ", 
+        "mean": "往往，每每，常常", 
+        "sample": "失敗は往往にしてあることだ。/失败是常有的事。"
+    }, 
+    {
+        "prefix": "W", 
+        "word": "威", 
+        "jpword": "威力", 
+        "kana": "wēi lì ", 
+        "mean": "威力", 
+        "sample": "札束の威力。/一叠一叠金钱的威力〔淫威〕。"
+    }, 
+    {
+        "prefix": "W", 
+        "word": "威", 
+        "jpword": "威信", 
+        "kana": "wēi xìn ", 
+        "mean": "威信，威望", 
+        "sample": "威信を保つ。/保持威信。"
+    }, 
+    {
+        "prefix": "W", 
+        "word": "温", 
+        "jpword": "温和", 
+        "kana": "wēn hé ", 
+        "mean": "温和，温暖，温和，温柔，柔和", 
+        "sample": "性質の温和な人。/性情温和的人。"
+    }, 
+    {
+        "prefix": "W", 
+        "word": "文", 
+        "jpword": "文化", 
+        "kana": "wén huà ", 
+        "mean": "文化", 
+        "sample": "日本文化の精髄/日本文化的精髓"
+    }, 
+    {
+        "prefix": "W", 
+        "word": "文", 
+        "jpword": "文物", 
+        "kana": "wén wù ", 
+        "mean": "文物", 
+        "sample": "奈良時代の文物/奈良时代的文物"
+    }, 
+    {
+        "prefix": "W", 
+        "word": "文", 
+        "jpword": "文献", 
+        "kana": "wén xiàn ", 
+        "mean": "文献，文件，参考资料", 
+        "sample": "文献をあさる/收集文献"
+    }, 
+    {
+        "prefix": "W", 
+        "word": "文", 
+        "jpword": "文雅", 
+        "kana": "wén yǎ ", 
+        "mean": "文雅，雅致，优雅", 
+        "sample": "文雅な趣味/文雅的趣味"
+    }, 
+    {
+        "prefix": "W", 
+        "word": "文", 
+        "jpword": "文章", 
+        "kana": "wén zhāng ", 
+        "mean": "文章，散文", 
+        "sample": "簡潔な文章/简单明了的文章。"
+    }, 
+    {
+        "prefix": "W", 
+        "word": "武", 
+        "jpword": "武装", 
+        "kana": "wǔ zhuāng ", 
+        "mean": "武装，军事装备", 
+        "sample": "武装した兵士/武装的士兵。"
+    }, 
+    {
+        "prefix": "W", 
+        "word": "侮", 
+        "jpword": "侮辱", 
+        "kana": "wǔ rǔ ", 
+        "mean": "侮辱，凌辱", 
+        "sample": "侮辱を受ける/受到侮辱。"
+    }, 
+    {
+        "prefix": "X", 
+        "word": "喜", 
+        "jpword": "喜悦", 
+        "kana": "xǐ yuè ", 
+        "mean": "喜悦", 
+        "sample": "喜悦おくあたわず。/不胜喜悦。"
+    }, 
+    {
+        "prefix": "X", 
+        "word": "肖", 
+        "jpword": "肖像", 
+        "kana": "xiāo xiàng ", 
+        "mean": "肖像", 
+        "sample": "肖像画/肖像画"
+    }, 
+    {
+        "prefix": "X", 
+        "word": "消", 
+        "jpword": "消毒", 
+        "kana": "xiāo dú ", 
+        "mean": "消毒，杀菌", 
+        "sample": "傷口を消毒する/消毒伤口"
+    }, 
+    {
+        "prefix": "X", 
+        "word": "消", 
+        "jpword": "消防", 
+        "kana": "xiāo fáng ", 
+        "mean": "消防，救火", 
+        "sample": "消防士/消防员"
+    }, 
+    {
+        "prefix": "X", 
+        "word": "消", 
+        "jpword": "消耗", 
+        "kana": "xiāo hào ", 
+        "mean": "消耗，消费，耗尽，耗费", 
+        "sample": "兵力の消耗を避ける/避免兵力的消耗"
+    }, 
+    {
+        "prefix": "X", 
+        "word": "消", 
+        "jpword": "消息", 
+        "kana": "xiāo xī ", 
+        "mean": "消息，信息，信，情况", 
+        "sample": "消息を絶つ/消息断绝"
+    }, 
+    {
+        "prefix": "X", 
+        "word": "小", 
+        "jpword": "小心", 
+        "kana": "xiǎo xīn ", 
+        "mean": "胆小，小心，慎重", 
+        "sample": "小心な人/小心的人"
+    }, 
+    {
+        "prefix": "X", 
+        "word": "小", 
+        "jpword": "小心翼翼", 
+        "kana": "xiǎo xīn yì yì ", 
+        "mean": "小心翼翼", 
+        "sample": "小心翼翼と任務に励む/小心翼翼地努力完成任务"
+    }, 
+    {
+        "prefix": "X", 
+        "word": "心", 
+        "jpword": "心情", 
+        "kana": "xīn qíng ", 
+        "mean": "心情", 
+        "sample": "心情を察する/体谅心情"
+    }, 
+    {
+        "prefix": "X", 
+        "word": "心", 
+        "jpword": "心血", 
+        "kana": "xīn xuè ", 
+        "mean": "心血", 
+        "sample": "心血を注ぐ/投注心血"
+    }, 
+    {
+        "prefix": "X", 
+        "word": "辛", 
+        "jpword": "辛苦", 
+        "kana": "xīn kǔ ", 
+        "mean": "辛苦，辛酸", 
+        "sample": "艱難辛苦/艰难辛苦"
+    }, 
+    {
+        "prefix": "X", 
+        "word": "新", 
+        "jpword": "新郎", 
+        "kana": "xīn láng ", 
+        "mean": "新郎", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "X", 
+        "word": "信", 
+        "jpword": "信念", 
+        "kana": "xìn niàn ", 
+        "mean": "信念", 
+        "sample": "信念をまげない/矢志不渝"
+    }, 
+    {
+        "prefix": "X", 
+        "word": "信", 
+        "jpword": "信任", 
+        "kana": "xìn rèn ", 
+        "mean": "信任", 
+        "sample": "議長を信任する/信任议长"
+    }, 
+    {
+        "prefix": "X", 
+        "word": "信", 
+        "jpword": "信心", 
+        "kana": "xìn xīn ", 
+        "mean": "信仰", 
+        "sample": "信心が足りない/信心不足"
+    }, 
+    {
+        "prefix": "X", 
+        "word": "信", 
+        "jpword": "信仰", 
+        "kana": "xìn yǎng ", 
+        "mean": "信仰", 
+        "sample": "仏教に厚い信仰を寄せる/对佛教有着深厚的信仰"
+    }, 
+    {
+        "prefix": "X", 
+        "word": "刑", 
+        "jpword": "刑事", 
+        "kana": "xíng shì ", 
+        "mean": "刑事，刑事警察，刑警", 
+        "sample": "刑事責任を問われる/被追究刑事责任"
+    }, 
+    {
+        "prefix": "X", 
+        "word": "性", 
+        "jpword": "性感", 
+        "kana": "xìng gǎn ", 
+        "mean": "性感", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "X", 
+        "word": "性", 
+        "jpword": "性格", 
+        "kana": "xìng gé ", 
+        "mean": "性格，性情，脾气，性质", 
+        "sample": "彼とは性格が合わない/和他性格不合"
+    }, 
+    {
+        "prefix": "X", 
+        "word": "性", 
+        "jpword": "性情", 
+        "kana": "xìng qíng ", 
+        "mean": "性情，性格，生性，脾气", 
+        "sample": "穏和な性情/性情温和"
+    }, 
+    {
+        "prefix": "X", 
+        "word": "修", 
+        "jpword": "修理", 
+        "kana": "xiū lǐ ", 
+        "mean": "修理，修缮", 
+        "sample": "屋根を修理する/修理屋顶"
+    }, 
+    {
+        "prefix": "X", 
+        "word": "宣", 
+        "jpword": "宣誓", 
+        "kana": "xuān shì ", 
+        "mean": "宣誓，誓言", 
+        "sample": "選手を代表して宣誓する/代表选手宣誓"
+    }, 
+    {
+        "prefix": "X", 
+        "word": "旋", 
+        "jpword": "旋律", 
+        "kana": "xuán lǜ ", 
+        "mean": "旋律，调子", 
+        "sample": "美くしい旋律/美妙的旋律"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "延", 
+        "jpword": "延期", 
+        "kana": "yán qī ", 
+        "mean": "延期，展期", 
+        "sample": "会議を延期する。/延期开会。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "岩", 
+        "jpword": "岩石", 
+        "kana": "yán shí ", 
+        "mean": "岩石", 
+        "sample": "岩石の多い/岩石众多"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "沿", 
+        "jpword": "沿海", 
+        "kana": "yán hǎi ", 
+        "mean": "沿海", 
+        "sample": "沿海漁業。/沿海渔业。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "眼", 
+        "jpword": "眼下", 
+        "kana": "yǎn xià ", 
+        "mean": "眼下，目前", 
+        "sample": "眼下に見おろす/看眼睛底下"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "演", 
+        "jpword": "演出", 
+        "kana": "yǎn chū ", 
+        "mean": "演出，导演，组织安排", 
+        "sample": "演出のよしあしで劇の評価が決まる。/演出的好坏决定剧的评价如何。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "演", 
+        "jpword": "演奏", 
+        "kana": "yǎn zòu ", 
+        "mean": "演奏", 
+        "sample": "演奏会を催す。/举行音乐演奏会。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "野", 
+        "jpword": "野蛮", 
+        "kana": "yě mán ", 
+        "mean": "野蛮，粗野", 
+        "sample": "野蛮なふるまい/蛮横的行径"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "野", 
+        "jpword": "野心", 
+        "kana": "yě xīn ", 
+        "mean": "野心，奢望，雄心", 
+        "sample": "だいそれた野心を抱く/心怀叵测"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "一", 
+        "jpword": "一般", 
+        "kana": "yī bān ", 
+        "mean": "一般，普遍，广泛，全般", 
+        "sample": "一般化。/一般化。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "一", 
+        "jpword": "一定", 
+        "kana": "yī dìng ", 
+        "mean": "一定，规定", 
+        "sample": "室温を一定に保つ。/保持固定的室温。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "一", 
+        "jpword": "一流", 
+        "kana": "yī liú ", 
+        "mean": "一流，头等，一个流派，独特", 
+        "sample": "一流のホテル。/一流的大饭店。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "一", 
+        "jpword": "一律", 
+        "kana": "yī lǜ ", 
+        "mean": "一律，一样，千篇一律", 
+        "sample": "文章が千編一律で退屈だ。/文章千篇一律很乏味。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "一", 
+        "jpword": "一切", 
+        "kana": "yī qiē ", 
+        "mean": "一切，全部，都，一概", 
+        "sample": "一切の責任を負う。/负全部责任。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "一", 
+        "jpword": "一再", 
+        "kana": "yī zài ", 
+        "mean": "一再，多次", 
+        "sample": "苦情が出たのは一再にとどまらない。/不止一次的诉苦。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "以", 
+        "jpword": "以来", 
+        "kana": "yǐ lái ", 
+        "mean": "以来，以后", 
+        "sample": "病気して以来タバコを慎む。/病后要少吸咽。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "以", 
+        "jpword": "以前", 
+        "kana": "yǐ qián ", 
+        "mean": "以前，过去，从前，以往", 
+        "sample": "そこへは以前にも何度か行ったことがある。/以前也曾到那里去过多次。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "椅", 
+        "jpword": "椅子", 
+        "kana": "yǐ zǐ ", 
+        "mean": "椅子，凳子，小凳子，职位", 
+        "sample": "長椅子/长椅。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "意", 
+        "jpword": "意向", 
+        "kana": "yì xiàng ", 
+        "mean": "意向，打算，意图", 
+        "sample": "まずは本人の意向を確かめるのが先だ。/首先要确认本人的意向。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "意", 
+        "jpword": "意志", 
+        "kana": "yì zhì ", 
+        "mean": "意志，意向，心意，志向", 
+        "sample": "自由意志。/自由意志。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "引", 
+        "jpword": "引用", 
+        "kana": "yǐn yòng ", 
+        "mean": "引用", 
+        "sample": "この論文は引用が多くて独創的なところが少ない。/这篇论文引用的太多，独创的地方少。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "印", 
+        "jpword": "印刷", 
+        "kana": "yìn shuā ", 
+        "mean": "印刷", 
+        "sample": "印刷インキ/印刷油墨。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "印", 
+        "jpword": "印象", 
+        "kana": "yìn xiàng ", 
+        "mean": "印象", 
+        "sample": "日本の印象はいかがでしたか。/你对日本的印象怎么样？"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "英", 
+        "jpword": "英明", 
+        "kana": "yīng míng ", 
+        "mean": "英明", 
+        "sample": "英明な天子。/英明的天子。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "勇", 
+        "jpword": "勇敢", 
+        "kana": "yǒng gǎn ", 
+        "mean": "勇敢", 
+        "sample": "ここに住んでいる人たちは勤勉で勇敢な人々である。/这里的人民是勤劳、勇敢的人民。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "友", 
+        "jpword": "友好", 
+        "kana": "yǒu hǎo ", 
+        "mean": "友好", 
+        "sample": "これにより双方の友好関係はいよいよ強くなった。/由此进一步增进了双方的友好关系。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "有", 
+        "jpword": "有名", 
+        "kana": "yǒu míng ", 
+        "mean": "有名，著名，闻名，臭名昭著", 
+        "sample": "あそこのくだものは有名だ。/那里的水果很有名。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "愉", 
+        "jpword": "愉快", 
+        "kana": "yú kuài ", 
+        "mean": "愉快，快活，畅快", 
+        "sample": "お目にかかることができて，この上もなくうれしくかつ愉快に存じます。/能看到您,使我感到无限的高兴和快乐!"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "愚", 
+        "jpword": "愚昧", 
+        "kana": "yú mèi ", 
+        "mean": "愚昧", 
+        "sample": "愚昧な人/愚昧的人"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "冤", 
+        "jpword": "冤枉", 
+        "kana": "yuān wǎng ", 
+        "mean": "冤枉，冤屈", 
+        "sample": "冤枉をすすぐ。/洗刷冤屈。"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "栽", 
+        "jpword": "栽培", 
+        "kana": "zāi péi ", 
+        "mean": "栽培，种植", 
+        "sample": "果樹を栽培する/栽培果树"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "遭", 
+        "jpword": "遭遇", 
+        "kana": "zāo yù ", 
+        "mean": "遭遇", 
+        "sample": "緊迫した場面に遭遇する/遭遇紧张的场面"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "摘", 
+        "jpword": "摘要", 
+        "kana": "zhāi yào ", 
+        "mean": "摘要，提要，摘录，摘录要点", 
+        "sample": "日本文法摘要。/日本语法提要。"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "展", 
+        "jpword": "展示", 
+        "kana": "zhǎn shì ", 
+        "mean": "展示，展出，陈列", 
+        "sample": "機械の見本を展示する。/展出机器样品。"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "展", 
+        "jpword": "展望", 
+        "kana": "zhǎn wàng ", 
+        "mean": "展望，眺望", 
+        "sample": "展望がきく。/视野广阔。"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "占", 
+        "jpword": "占有", 
+        "kana": "zhàn yǒu ", 
+        "mean": "占，占有，据为己有，占有", 
+        "sample": "土地を占有する/占有土地"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "招", 
+        "jpword": "招聘", 
+        "kana": "zhāo pìn ", 
+        "mean": "招聘，延聘，聘请", 
+        "sample": "技術者を招聘する/招聘技术人员"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "着", 
+        "jpword": "着手", 
+        "kana": "zhe shǒu ", 
+        "mean": "着手，下手，动手，开始", 
+        "sample": "仕事に着手する。/动手工作。"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "真", 
+        "jpword": "真相", 
+        "kana": "zhēn xiàng ", 
+        "mean": "真相", 
+        "sample": "真相を究明する/查明真相"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "真", 
+        "jpword": "真正", 
+        "kana": "zhēn zhèng ", 
+        "mean": "真正", 
+        "sample": "真正な（の）勇気/真正的勇气"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "斟", 
+        "jpword": "斟酌", 
+        "kana": "zhēn zhuó ", 
+        "mean": "体谅，照顾，考虑，斟酌", 
+        "sample": "相手の立場を斟酌して裁定を下す/体谅对方的立场作出判断"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "征", 
+        "jpword": "征服", 
+        "kana": "zhēng fú ", 
+        "mean": "征服，克服，战胜，攻占", 
+        "sample": "隣国を征服する/征服邻国"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "整", 
+        "jpword": "整理", 
+        "kana": "zhěng lǐ ", 
+        "mean": "整理，整顿，收拾，处理", 
+        "sample": "引き出しを整理する/整理行李"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "正", 
+        "jpword": "正当", 
+        "kana": "zhèng dāng ", 
+        "mean": "正当，合理，合法，公正", 
+        "sample": "正当な主張/正当的主张"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "正", 
+        "jpword": "正式", 
+        "kana": "zhèng shì ", 
+        "mean": "正式，正规", 
+        "sample": "正式に認可される/正式批准"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "正", 
+        "jpword": "正月", 
+        "kana": "zhèng yuè ", 
+        "mean": "正月，新年，过年似的热闹愉快", 
+        "sample": "正月気分が抜けない/没有正月的气氛"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "支", 
+        "jpword": "支持", 
+        "kana": "zhī chí ", 
+        "mean": "支撑，维持，支持，赞成", 
+        "sample": "提案を支持する/支持建议"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "支", 
+        "jpword": "支出", 
+        "kana": "zhī chū ", 
+        "mean": "支出，开支", 
+        "sample": "支出がかさむ/支出增多"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "支", 
+        "jpword": "支配", 
+        "kana": "zhī pèi ", 
+        "mean": "指使，支配，左右，控制", 
+        "sample": "運命を支配する/支配命运"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "支", 
+        "jpword": "支援", 
+        "kana": "zhī yuán ", 
+        "mean": "支援", 
+        "sample": "友人の事業を支援する/支援朋友的事业"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "支", 
+        "jpword": "支柱", 
+        "kana": "zhī zhù ", 
+        "mean": "支柱，支棍，架柱，支持物", 
+        "sample": "一家の支柱を失う/失去一家的支柱"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "脂", 
+        "jpword": "脂肪", 
+        "kana": "zhī fáng ", 
+        "mean": "脂肪", 
+        "sample": "豚肉には脂肪分が多い/猪肉的脂肪含量多"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "直", 
+        "jpword": "直接", 
+        "kana": "zhí jiē ", 
+        "mean": "直接", 
+        "sample": "直接の原因。/直接原因。"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "植", 
+        "jpword": "植物", 
+        "kana": "zhí wù ", 
+        "mean": "植物", 
+        "sample": "隠花植物/孢子植物"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "指", 
+        "jpword": "指令", 
+        "kana": "zhǐ lìng ", 
+        "mean": "指令，指示，通知", 
+        "sample": "本庁の指令を受けて行動する/接受本厅的指令行动"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "指", 
+        "jpword": "指示", 
+        "kana": "zhǐ shì ", 
+        "mean": "指示，指示，命令，吩咐", 
+        "sample": "計画の中止を指示する/指示计划中止"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "制", 
+        "jpword": "制裁", 
+        "kana": "zhì cái ", 
+        "mean": "制裁", 
+        "sample": "制裁を加える/加以制裁"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "制", 
+        "jpword": "制服", 
+        "kana": "zhì fú ", 
+        "mean": "制服", 
+        "sample": "制服を着る/穿制服"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "制", 
+        "jpword": "制止", 
+        "kana": "zhì zhǐ ", 
+        "mean": "制止，阻拦", 
+        "sample": "発言を制止する/制止发言"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "滞", 
+        "jpword": "滞留", 
+        "kana": "zhì liú ", 
+        "mean": "逗留，停滞，停留", 
+        "sample": "仕事が滞留する/工作停滞不前。"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "中", 
+        "jpword": "中断", 
+        "kana": "zhōng duàn ", 
+        "mean": "中断，中辍", 
+        "sample": "話を中断する。/中断谈话;停下话头。"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "中", 
+        "jpword": "中立", 
+        "kana": "zhōng lì ", 
+        "mean": "中立", 
+        "sample": "中立的立場をとる。/采取中立的立场。"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "中", 
+        "jpword": "中央", 
+        "kana": "zhōng yāng ", 
+        "mean": "中间，当中，中心，中枢", 
+        "sample": "町の中央にある病院。/市镇当中的医院。"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "衷", 
+        "jpword": "衷心", 
+        "kana": "zhōng xīn ", 
+        "mean": "衷心，内心", 
+        "sample": "衷心からの歓迎。/衷心的欢迎。"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "周", 
+        "jpword": "周密", 
+        "kana": "zhōu mì ", 
+        "mean": "周密，缜密", 
+        "sample": "周密な調査/周密的调查"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "周", 
+        "jpword": "周年", 
+        "kana": "zhōu nián ", 
+        "mean": "周年整一年，一周年", 
+        "sample": "創立二〇周年/成立20周年"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "周", 
+        "jpword": "周期", 
+        "kana": "zhōu qī ", 
+        "mean": "周期", 
+        "sample": "彼の頭痛は周期的なものだ/他的头痛是周期性的"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "昼", 
+        "jpword": "昼夜", 
+        "kana": "zhòu yè ", 
+        "mean": "昼夜，白天和夜晚，日夜，经常", 
+        "sample": "昼夜の別なく働く。/不分昼夜地工作。"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "逐", 
+        "jpword": "逐年", 
+        "kana": "zhú nián ", 
+        "mean": "逐年，年年", 
+        "sample": "会員が逐年減少する/会员逐年减少。"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "主", 
+        "jpword": "主管", 
+        "kana": "zhǔ guǎn ", 
+        "mean": "主管，主管者", 
+        "sample": "運輸行政を主管する官庁/运输行政官厅"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "主", 
+        "jpword": "主流", 
+        "kana": "zhǔ liú ", 
+        "mean": "主流，主流", 
+        "sample": "実存主義が哲学界の主流となる/存在主义是哲学界的主流"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "主", 
+        "jpword": "主要", 
+        "kana": "zhǔ yào ", 
+        "mean": "主要", 
+        "sample": "主要な登場人物/主要的登场人物"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "主", 
+        "jpword": "主意", 
+        "kana": "zhǔ yì ", 
+        "mean": "主要意旨，主旨，中心意思，以意志为主", 
+        "sample": "論文の主意を読み取る"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "注", 
+        "jpword": "注射", 
+        "kana": "zhù shè ", 
+        "mean": "注射，打针", 
+        "sample": "ペニシリンを注射する。/注射〔打〕青霉素。"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "注", 
+        "jpword": "注意", 
+        "kana": "zhù yì ", 
+        "mean": "注意，留神，当心，小心", 
+        "sample": "足元に注意する。/注意脚下。"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "著", 
+        "jpword": "著名", 
+        "kana": "zhe míng ", 
+        "mean": "著名，有名，出名", 
+        "sample": "著名の士。/著名人士。"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "著", 
+        "jpword": "著作", 
+        "kana": "zhe zuò ", 
+        "mean": "著作，著述，著书，写作", 
+        "sample": "著作者。/作家。"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "追", 
+        "jpword": "追悼", 
+        "kana": "zhuī dào ", 
+        "mean": "追悼", 
+        "sample": "追悼の辞を述べる。/致悼词。"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "追", 
+        "jpword": "追究", 
+        "kana": "zhuī jiū ", 
+        "mean": "追求，追究，搞清，弄清", 
+        "sample": "真理を追究する。/追求真理。"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "卓", 
+        "jpword": "卓越", 
+        "kana": "zhuó yuè ", 
+        "mean": "卓越，超群", 
+        "sample": "卓越した才能の持ち主。/才能超群的人"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "琢", 
+        "jpword": "琢磨", 
+        "kana": "zhuó mó ", 
+        "mean": "琢磨，钻研", 
+        "sample": "武を琢磨する。/钻研武术。"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "自", 
+        "jpword": "自然", 
+        "kana": "zì rán ", 
+        "mean": "自然，自然界，大自然，天然", 
+        "sample": "自然を愛する/热爱自然"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "宗", 
+        "jpword": "宗旨", 
+        "kana": "zōng zhǐ ", 
+        "mean": "中心教义，教旨，派别，宗派", 
+        "sample": "宗旨を替える/更换宗旨"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "最", 
+        "jpword": "最近", 
+        "kana": "zuì jìn ", 
+        "mean": "最近，近来", 
+        "sample": "最近買ったばかりの本/最近刚买的书"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "尊", 
+        "jpword": "尊重", 
+        "kana": "zūn zhòng ", 
+        "mean": "尊重，重视", 
+        "sample": "世論を尊重する/重视舆论"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "左", 
+        "jpword": "左右", 
+        "kana": "zuǒ yòu ", 
+        "mean": "左面和右面，左右方，身边，身旁", 
+        "sample": "前後左右に揺れる/前后左右摇动"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "作", 
+        "jpword": "作文", 
+        "kana": "zuò wén ", 
+        "mean": "作文，文章，空作文章，空谈阔论", 
+        "sample": "作文コンクール/作文比赛"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "作", 
+        "jpword": "作用", 
+        "kana": "zuò yòng ", 
+        "mean": "作用，起作用", 
+        "sample": "人体に及ぼす作用/对人体产生作用"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "作", 
+        "jpword": "作者", 
+        "kana": "zuò zhě ", 
+        "mean": "作者，写作者，著者，创作者", 
+        "sample": "源氏物語の作者/源氏物语的作者。"
+    }
+]

@@ -1,0 +1,394 @@
+[
+    {
+        "prefix": "D", 
+        "word": "大", 
+        "jpword": "大腸", 
+        "kana": "だいちょう⓪", 
+        "mean": "大肠", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "D", 
+        "word": "動", 
+        "jpword": "動脈", 
+        "kana": "どうみゃく⓪", 
+        "mean": "主动脉，大动脉", 
+        "sample": "東西日本を結ぶ大動脈/连接日本东西部的大动脉。"
+    }, 
+    {
+        "prefix": "G", 
+        "word": "肝", 
+        "jpword": "肝臓", 
+        "kana": "かんぞう⓪", 
+        "mean": "肝脏", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "G", 
+        "word": "肛", 
+        "jpword": "肛門", 
+        "kana": "こうもん⓪", 
+        "mean": "肛门 ", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "G", 
+        "word": "関", 
+        "jpword": "関節", 
+        "kana": "かんせつ⓪", 
+        "mean": "关节", 
+        "sample": "関節をくじく/扭伤关节"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "静", 
+        "jpword": "静脈", 
+        "kana": "じょうみゃく", 
+        "mean": "静脉", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "L", 
+        "word": "肋", 
+        "jpword": "肋骨", 
+        "kana": "あばらぼね⓪", 
+        "mean": "肋骨", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "M", 
+        "word": "盲", 
+        "jpword": "盲腸", 
+        "kana": "もうちょう①", 
+        "mean": "盲肠，阑尾", 
+        "sample": "彼は盲腸炎で手術を受けたことがある。/他患阑尾炎动过手术。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "眉", 
+        "jpword": "眉毛", 
+        "kana": "まゆげ①", 
+        "mean": "眉毛", 
+        "sample": "眉毛の形が顔全体の印象まで変えて しまいます。/眉毛的形状把对整个脸的印象都改变了。"
+    }, 
+    {
+        "prefix": "N", 
+        "word": "内", 
+        "jpword": "内臓", 
+        "kana": "ないぞう⓪", 
+        "mean": "内脏", 
+        "sample": "どこか内臓の具合が悪い。/好像感觉身体内脏有点不舒服。"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "皮", 
+        "jpword": "皮膚", 
+        "kana": "ひふ①", 
+        "mean": "皮肤", 
+        "sample": "皮膚を傷つける/弄伤皮肤"
+    }, 
+    {
+        "prefix": "R", 
+        "word": "乳", 
+        "jpword": "乳房", 
+        "kana": "ちぶさ①", 
+        "mean": "乳房", 
+        "sample": "乳房の小さい女性。/平胸的女人。"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "身", 
+        "jpword": "身体", 
+        "kana": "しんたい①", 
+        "mean": "身体", 
+        "sample": "お身体に気をつけて/注意身体"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "神", 
+        "jpword": "神経", 
+        "kana": "しんけい③", 
+        "mean": "神经", 
+        "sample": "慢性の神経衰弱/慢性神经衰弱"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "腎", 
+        "jpword": "腎臓", 
+        "kana": "じんぞう⓪", 
+        "mean": "肾脏", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "S", 
+        "word": "食", 
+        "jpword": "食道", 
+        "kana": "しょくどう⓪", 
+        "mean": "食道", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "X", 
+        "word": "小", 
+        "jpword": "小指", 
+        "kana": "こゆび⓪", 
+        "mean": "小指头，小指", 
+        "sample": "ロケで左手小指骨折/出外景时左手小指骨折了"
+    }, 
+    {
+        "prefix": "X", 
+        "word": "心", 
+        "jpword": "心臓", 
+        "kana": "しんぞう⓪", 
+        "mean": "心脏", 
+        "sample": "あいつも相当の心臓だ。／那家伙脸皮也真厚。"
+    }, 
+    {
+        "prefix": "X", 
+        "word": "血", 
+        "jpword": "血管", 
+        "kana": "けっかん⓪", 
+        "mean": "血管", 
+        "sample": "血管が収縮する/血管收缩"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "腋", 
+        "jpword": "腋毛", 
+        "kana": "わきげ⓪②", 
+        "mean": "腋毛", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "中", 
+        "jpword": "中指", 
+        "kana": "なかゆび②", 
+        "mean": "中指", 
+        "sample": "指輪を中指にはめる。/中指戴戒指。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "白", 
+        "jpword": "白内障", 
+        "kana": "はくないしょう⓪③", 
+        "mean": "白内障", 
+        "sample": "白内障。/患白内障。"
+    }, 
+    {
+        "prefix": "C", 
+        "word": "腸", 
+        "jpword": "腸癌", 
+        "kana": "ちょうがん①", 
+        "mean": "肠癌", 
+        "sample": "腸癌にかかる。/患上肠癌。"
+    }, 
+    {
+        "prefix": "C", 
+        "word": "腸", 
+        "jpword": "腸結核", 
+        "kana": "ちょうけっかく③", 
+        "mean": "肠结核", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "C", 
+        "word": "赤", 
+        "jpword": "赤痢", 
+        "kana": "せきり①", 
+        "mean": "赤痢", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "D", 
+        "word": "鈍", 
+        "jpword": "鈍痛", 
+        "kana": "どんつう⓪", 
+        "mean": "隐隐疼痛，闷痛", 
+        "sample": "鈍痛がする。/隐隐作痛。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "発", 
+        "jpword": "発熱", 
+        "kana": "はつねつ⓪", 
+        "mean": "发热，发烧", 
+        "sample": "かぜによる発熱。/因感冒发烧。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "肺", 
+        "jpword": "肺癌", 
+        "kana": "はいがん⓪", 
+        "mean": "肺癌", 
+        "sample": "肺癌にかかる。/患上肺癌。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "肺", 
+        "jpword": "肺結核", 
+        "kana": "はいけっかく③", 
+        "mean": "肺结核", 
+        "sample": "肺結核にかかる/患上肺结核。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "肺", 
+        "jpword": "肺炎", 
+        "kana": "はいえん①", 
+        "mean": "肺炎", 
+        "sample": "肺炎患者。/肺炎患者。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "腹", 
+        "jpword": "腹痛", 
+        "kana": "ふくつう⓪", 
+        "mean": "腹痛", 
+        "sample": "急に腹痛を起こす/突然腹痛。"
+    }, 
+    {
+        "prefix": "G", 
+        "word": "肝", 
+        "jpword": "肝炎", 
+        "kana": "かんえん①", 
+        "mean": "肝炎", 
+        "sample": "肝炎患者。/肝炎患者。"
+    }, 
+    {
+        "prefix": "G", 
+        "word": "高", 
+        "jpword": "高血圧", 
+        "kana": "こうけつあつ③", 
+        "mean": "高血压", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "H", 
+        "word": "化", 
+        "jpword": "化膿", 
+        "kana": "かのう⓪", 
+        "mean": "化脓", 
+        "sample": "足の傷が化膿する。/脚上的伤化脓了。"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "健", 
+        "jpword": "健忘症", 
+        "kana": "けんぼうしょう⓪", 
+        "mean": "健忘症", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "J", 
+        "word": "痙", 
+        "jpword": "痙攣", 
+        "kana": "けいれん⓪", 
+        "mean": "痉挛", 
+        "sample": "胃痙攣する。/胃痉挛。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "麻", 
+        "jpword": "麻疹", 
+        "kana": "はしか③/ましん⓪", 
+        "mean": "麻疹", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "N", 
+        "word": "脳", 
+        "jpword": "脳炎", 
+        "kana": "のうえん⓪①", 
+        "mean": "脑炎", 
+        "sample": "日本脳炎。/日本脑炎。"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "偏", 
+        "jpword": "偏頭痛", 
+        "kana": "へんずつう③", 
+        "mean": "偏头痛", 
+        "sample": "偏頭痛は慢性頭痛のひとつです/偏头痛是慢性头痛的一种。"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "貧", 
+        "jpword": "貧血", 
+        "kana": "ひんけつ⓪", 
+        "mean": "贫血", 
+        "sample": "貧血を起こす/贫血发作"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "破", 
+        "jpword": "破傷風", 
+        "kana": "はしょうふう⓪", 
+        "mean": "破伤风", 
+        "sample": "破傷風菌。/破伤风杆菌。"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "神", 
+        "jpword": "神経衰弱", 
+        "kana": "しんけいすいじゃく⑤", 
+        "mean": "神经衰弱", 
+        "sample": "慢性の神経衰弱/慢性神经衰弱"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "失", 
+        "jpword": "失禁", 
+        "kana": "しっきん⓪", 
+        "mean": "失禁", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "S", 
+        "word": "湿", 
+        "jpword": "湿疹", 
+        "kana": "しっしん⓪", 
+        "mean": "湿疹", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "T", 
+        "word": "頭", 
+        "jpword": "頭痛", 
+        "kana": "ずつう⓪", 
+        "mean": "头痛，烦恼，苦恼", 
+        "sample": "少し頭痛がする。/有点头疼。"
+    }, 
+    {
+        "prefix": "X", 
+        "word": "小", 
+        "jpword": "小児麻痺", 
+        "kana": "しょうにまひ④", 
+        "mean": "小儿麻痹", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "中", 
+        "jpword": "中毒", 
+        "kana": "ちゅうどく①", 
+        "mean": "中毒，上瘾", 
+        "sample": "食中毒。/食物中毒。"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "中", 
+        "jpword": "中耳炎", 
+        "kana": "ちゅうじえん③", 
+        "mean": "中耳炎", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "中", 
+        "jpword": "中風", 
+        "kana": "ちゅうふう⓪", 
+        "mean": "中风，卒中", 
+        "sample": "中風を患っている。/中风。"
+    }
+]

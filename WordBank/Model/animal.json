@@ -1,0 +1,714 @@
+[
+    {
+        "prefix": "A", 
+        "word": "暗", 
+        "jpword": "暗礁", 
+        "kana": "あんしょう⓪", 
+        "mean": "暗礁，意外的障碍", 
+        "sample": "捜査が暗礁に乗り上げる。/搜查遇上了暗礁（碰了壁）。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "白", 
+        "jpword": "白駒", 
+        "kana": "はっく①", 
+        "mean": "白驹，白马，光阴", 
+        "sample": "白駒の隙を過ぐるがごとし。/如白驹过隙。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "白", 
+        "jpword": "白狐", 
+        "kana": "びゃっこ①", 
+        "mean": "白狐，白毛的狐狸", 
+        "sample": "この地域には白狐がある。/这个地区有白狐。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "白", 
+        "jpword": "白蛇", 
+        "kana": "はくじゃ①", 
+        "mean": "白蛇", 
+        "sample": "白蛇伝。/白蛇传。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "白", 
+        "jpword": "白頭翁", 
+        "kana": "はくとうおう③", 
+        "mean": "白头翁，白发老人，白头翁，白头翁", 
+        "sample": "白頭翁になる。/变成白发老人。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "鷸", 
+        "jpword": "鷸蚌", 
+        "kana": "いつぼう⓪", 
+        "mean": "鹬蚌", 
+        "sample": "鷸蚌の争い、漁夫の利となる。/鹬蚌相争，渔翁得利。"
+    }, 
+    {
+        "prefix": "H", 
+        "word": "海", 
+        "jpword": "海豹", 
+        "kana": "あざらし②", 
+        "mean": "海豹", 
+        "sample": "これは海豹だ。/这是海豹。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "変", 
+        "jpword": "変温動物", 
+        "kana": "へんおんどうぶつ⑤", 
+        "mean": "变温动物，冷血动物", 
+        "sample": "変温動物は体の周りの気温（水温）の変化と同じく体温も変化する動物/变温动物指的是体温随着周围气温（水温）一同变化的动物。"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "病", 
+        "jpword": "病犬", 
+        "kana": "やまいぬ⓪", 
+        "mean": "病犬，狂犬", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "長", 
+        "jpword": "長蛇", 
+        "kana": "ちょうだ①", 
+        "mean": "长蛇", 
+        "sample": "蜿蜒長蛇の列。/蜿蜒如长蛇之列。"
+    }, 
+    {
+        "prefix": "Q", 
+        "word": "蛆", 
+        "jpword": "蛆虫", 
+        "kana": "うじむし②", 
+        "mean": "蛆，蛆虫，鼠辈，蠢货", 
+        "sample": "この蛆虫どもめ。/这群鼠辈们。"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "毒", 
+        "jpword": "毒虫", 
+        "kana": "どくむし②", 
+        "mean": "毒虫", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "K", 
+        "word": "昆", 
+        "jpword": "昆虫", 
+        "kana": "こんちゅう⓪", 
+        "mean": "昆虫", 
+        "sample": "昆虫の警戒色/昆虫的警戒色"
+    }, 
+    {
+        "prefix": "C", 
+        "word": "雛", 
+        "jpword": "雛鳥", 
+        "kana": "ひなどり②", 
+        "mean": "鸡雏，小鸡，雏儿，雏鸟", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "C", 
+        "word": "畜", 
+        "jpword": "畜生", 
+        "kana": "ちくしょう③", 
+        "mean": "畜生，动物，兽，畜类", 
+        "sample": "畜生の浅ましさ。/畜生一般的卑鄙。"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "大", 
+        "jpword": "大魚", 
+        "kana": "たいぎょ①", 
+        "mean": "大鱼", 
+        "sample": "大きな魚が網にかかった/大魚被網捕到了"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "灯", 
+        "jpword": "灯蛾", 
+        "kana": "とうが①", 
+        "mean": "灯蛾", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "D", 
+        "word": "動", 
+        "jpword": "動物", 
+        "kana": "どうぶつ⓪", 
+        "mean": "动物，兽", 
+        "sample": "下等動物。／低等动物。"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "毒", 
+        "jpword": "毒蛇", 
+        "kana": "どくじゃ①/どくへび⓪", 
+        "mean": "毒蛇", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "D", 
+        "word": "毒", 
+        "jpword": "毒物", 
+        "kana": "どくぶつ⓪", 
+        "mean": "毒物，毒药", 
+        "sample": "毒物を検出する。/检测出毒物。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "飛", 
+        "jpword": "飛燕", 
+        "kana": "ひえん①", 
+        "mean": "飞燕", 
+        "sample": "飛燕の早技/飞燕般的神速妙技"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "飛", 
+        "jpword": "飛鳥", 
+        "kana": "ひちょう⓪", 
+        "mean": "飞鸟", 
+        "sample": "飛鳥のごとき早技/飞鸟般的神技"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "狒", 
+        "jpword": "狒狒", 
+        "kana": "ひひ①", 
+        "mean": "狒狒，色鬼，色徒", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "F", 
+        "word": "蜉", 
+        "jpword": "蜉蝣", 
+        "kana": "ふゆう⓪", 
+        "mean": "蜉蝣，暂短，不保朝夕", 
+        "sample": "蜉蝣が短命であるように短い人間の一生/人的一生其实像短命的浮游的一生一样短暂。"
+    }, 
+    {
+        "prefix": "G", 
+        "word": "怪", 
+        "jpword": "怪物", 
+        "kana": "かいぶつ⓪", 
+        "mean": "怪物", 
+        "sample": "海の怪物/海怪"
+    }, 
+    {
+        "prefix": "H", 
+        "word": "海", 
+        "jpword": "海豹", 
+        "kana": "あざらし②", 
+        "mean": "海豹", 
+        "sample": "これは海豹だ。/这是海豹。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "野", 
+        "jpword": "野鶴", 
+        "kana": "やかく⓪", 
+        "mean": "野鹤", 
+        "sample": "閑雲野鶴の生活を送る/过闲情逸致的生活"
+    }, 
+    {
+        "prefix": "H", 
+        "word": "狐", 
+        "jpword": "狐狸", 
+        "kana": "こり①", 
+        "mean": "狐和狸，老狐狸精", 
+        "sample": "狐狸妖怪/狐妖"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "白", 
+        "jpword": "白狐", 
+        "kana": "びゃっこ①", 
+        "mean": "白狐，白毛的狐狸", 
+        "sample": "この地域には白狐がある。/这个地区有白狐。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "野", 
+        "jpword": "野狐", 
+        "kana": "のぎつね②", 
+        "mean": "野狐狸", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "D", 
+        "word": "電", 
+        "jpword": "電弧", 
+        "kana": "でんこ①", 
+        "mean": "电弧，弧光", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "M", 
+        "word": "猛", 
+        "jpword": "猛虎", 
+        "kana": "もうこ①", 
+        "mean": "猛虎", 
+        "sample": "過酷な政治は猛虎よりも恐ろしいものである。/苛政猛于虎。"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "鳳", 
+        "jpword": "鳳凰", 
+        "kana": "ほうおう③", 
+        "mean": "凤凰", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "W", 
+        "word": "無", 
+        "jpword": "無脊椎動物", 
+        "kana": "むせきついどうぶつ⑥", 
+        "mean": "无脊椎动物", 
+        "sample": "背骨のない動物を無脊椎動物といいます。/没有脊柱的动物叫做无脊椎动物。"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "寄", 
+        "jpword": "寄生虫", 
+        "kana": "きせいちゅう⓪", 
+        "mean": "寄生虫", 
+        "sample": "社会の寄生虫。/社会的寄生虫。"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "錦", 
+        "jpword": "錦鯉", 
+        "kana": "にしきごい③", 
+        "mean": "锦鲤，花鲤", 
+        "sample": "錦鯉を飼育する。/饲养锦鲤。"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "禿", 
+        "jpword": "禿鷲", 
+        "kana": "はげわし⓪", 
+        "mean": "秃鹫，座山雕", 
+        "sample": "禿鷲は死肉を食べる。/秃鹫吃腐肉。"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "軍", 
+        "jpword": "軍犬", 
+        "kana": "ぐんけん⓪", 
+        "mean": "军用犬", 
+        "sample": "勇ましい軍犬だ/勇猛的军犬。"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "駿", 
+        "jpword": "駿馬", 
+        "kana": "しゅんば①", 
+        "mean": "骏马", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "K", 
+        "word": "孔", 
+        "jpword": "孔雀", 
+        "kana": "くじゃく⓪", 
+        "mean": "孔雀", 
+        "sample": "尾を広げた孔雀/开屏的孔雀"
+    }, 
+    {
+        "prefix": "Q", 
+        "word": "禽", 
+        "jpword": "禽類", 
+        "kana": "きんるい⓪", 
+        "mean": "禽类，禽鸟", 
+        "sample": "鶏は禽類だ。/鸡是禽类。"
+    }, 
+    {
+        "prefix": "N", 
+        "word": "鳥", 
+        "jpword": "鳥類", 
+        "kana": "ちょうるい①", 
+        "mean": "鸟类", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "C", 
+        "word": "畜", 
+        "jpword": "畜類", 
+        "kana": "ちくるい②", 
+        "mean": "家畜，兽类，畜生", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "H", 
+        "word": "狐", 
+        "jpword": "狐狸", 
+        "kana": "こり①", 
+        "mean": "狐和狸，老狐狸精", 
+        "sample": "狐狸妖怪/狐妖"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "山", 
+        "jpword": "山猫", 
+        "kana": "やまねこ⓪", 
+        "mean": "野猫，山猫，豹猫", 
+        "sample": "山猫とは山野にすむ猫。/山猫是在山野里的猫。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "猛", 
+        "jpword": "猛禽", 
+        "kana": "もうきん⓪", 
+        "mean": "猛禽", 
+        "sample": "「猛禽」の原義は「猛々しい鳥」。/猛禽的原意是凶猛的鸟。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "猛", 
+        "jpword": "猛犬", 
+        "kana": "もうけん⓪", 
+        "mean": "猛犬，凶猛的狗", 
+        "sample": "猛犬注意/（内）有猛犬请注意"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "猛", 
+        "jpword": "猛虎", 
+        "kana": "もうこ①", 
+        "mean": "猛虎", 
+        "sample": "過酷な政治は猛虎よりも恐ろしいものである。/苛政猛于虎。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "猛", 
+        "jpword": "猛獣", 
+        "kana": "もうじゅう⓪", 
+        "mean": "猛兽", 
+        "sample": "猛獣と格闘する。/与猛兽搏斗。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "綿", 
+        "jpword": "綿羊", 
+        "kana": "めんよう⓪", 
+        "mean": "绵羊", 
+        "sample": "山で綿羊の放し飼いをする。/在山上放养绵羊。"
+    }, 
+    {
+        "prefix": "N", 
+        "word": "鳥", 
+        "jpword": "鳥獣", 
+        "kana": "ちょうじゅう⓪", 
+        "mean": "鸟兽", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "野", 
+        "jpword": "野鳥", 
+        "kana": "やちょう⓪", 
+        "mean": "野鸟，山鸟", 
+        "sample": "一群の野鳥が飛来する/飞来一群野鸟"
+    }, 
+    {
+        "prefix": "G", 
+        "word": "国", 
+        "jpword": "国鳥", 
+        "kana": "こくちょう⓪", 
+        "mean": "国鸟", 
+        "sample": "各国の国鳥/各国的国鸟"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "水", 
+        "jpword": "水鳥", 
+        "kana": "すいちょう⓪", 
+        "mean": "水鸟", 
+        "sample": "珍しい水鳥/珍稀的水鸟"
+    }, 
+    {
+        "prefix": "F", 
+        "word": "飛", 
+        "jpword": "飛鳥", 
+        "kana": "ひちょう⓪", 
+        "mean": "飞鸟", 
+        "sample": "飛鳥のごとき早技/飞鸟般的神技"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "珍", 
+        "jpword": "珍鳥", 
+        "kana": "ちんちょう⓪", 
+        "mean": "珍鸟，珍禽，罕有的鸟", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "C", 
+        "word": "雛", 
+        "jpword": "雛鳥", 
+        "kana": "ひなどり②", 
+        "mean": "鸡雏，小鸡，雏儿，雏鸟", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "野", 
+        "jpword": "野牛", 
+        "kana": "やぎゅう⓪", 
+        "mean": "野牛", 
+        "sample": "野牛の角/野牛角"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "水", 
+        "jpword": "水牛", 
+        "kana": "すいぎゅう⓪", 
+        "mean": "水牛", 
+        "sample": "水牛を飼う/饲养水牛"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "屠", 
+        "jpword": "屠牛", 
+        "kana": "とぎゅう⓪", 
+        "mean": "屠牛，宰牛", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "R", 
+        "word": "肉", 
+        "jpword": "肉牛", 
+        "kana": "にくぎゅう⓪", 
+        "mean": "肉食牛，肉牛", 
+        "sample": "肉牛を飼う。/养肉牛。"
+    }, 
+    {
+        "prefix": "R", 
+        "word": "乳", 
+        "jpword": "乳牛", 
+        "kana": "にゅうぎゅう⓪", 
+        "mean": "乳牛，奶牛", 
+        "sample": "乳牛を飼う。/饲养奶牛。"
+    }, 
+    {
+        "prefix": "P", 
+        "word": "爬", 
+        "jpword": "爬虫類", 
+        "kana": "はちゅうるい②", 
+        "mean": "爬行纲，爬虫，爬行动物", 
+        "sample": " 爬虫類の動物/爬行类动物。"
+    }, 
+    {
+        "prefix": "Q", 
+        "word": "秋", 
+        "jpword": "秋蚕", 
+        "kana": "あきご⓪", 
+        "mean": "秋蚕", 
+        "sample": "これは秋蚕だ。/这是秋蚕。"
+    }, 
+    {
+        "prefix": "J", 
+        "word": "軍", 
+        "jpword": "軍犬", 
+        "kana": "ぐんけん⓪", 
+        "mean": "军用犬", 
+        "sample": "勇ましい軍犬だ/勇猛的军犬。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "猛", 
+        "jpword": "猛犬", 
+        "kana": "もうけん⓪", 
+        "mean": "猛犬，凶猛的狗", 
+        "sample": "猛犬注意/（内）有猛犬请注意"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "野", 
+        "jpword": "野犬", 
+        "kana": "やけん⓪", 
+        "mean": "野狗，野犬", 
+        "sample": "野犬狩り/捉捕野狗"
+    }, 
+    {
+        "prefix": "B", 
+        "word": "病", 
+        "jpword": "病犬", 
+        "kana": "やまいぬ⓪", 
+        "mean": "病犬，狂犬", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "忠", 
+        "jpword": "忠犬", 
+        "kana": "ちゅうけん⓪", 
+        "mean": "忠实的狗", 
+        "sample": "忠犬社員。/"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "猿", 
+        "jpword": "猿人", 
+        "kana": "えんじん⓪", 
+        "mean": "猿人", 
+        "sample": "これは猿人遺跡案内図です。/这是猿人遗迹的指导地图。"
+    }, 
+    {
+        "prefix": "R", 
+        "word": "軟", 
+        "jpword": "軟体動物", 
+        "kana": "なんたいどうぶつ⑤", 
+        "mean": "软体动物", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "S", 
+        "word": "山", 
+        "jpword": "山猫", 
+        "kana": "やまねこ⓪", 
+        "mean": "野猫，山猫，豹猫", 
+        "sample": "山猫とは山野にすむ猫。/山猫是在山野里的猫。"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "山", 
+        "jpword": "山蛭", 
+        "kana": "やまびる⓪或③", 
+        "mean": "草蛭，山蛭", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "S", 
+        "word": "山", 
+        "jpword": "山羊", 
+        "kana": "やぎ①", 
+        "mean": "山羊", 
+        "sample": "山羊と羊の違いは？/山羊和绵羊的不同。"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "獅", 
+        "jpword": "獅子", 
+        "kana": "しし①", 
+        "mean": "狮子", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "Q", 
+        "word": "禽", 
+        "jpword": "禽獣", 
+        "kana": "きんじゅう⓪", 
+        "mean": "禽兽，禽兽，畜生", 
+        "sample": "禽獣草木。/禽兽草木。"
+    }, 
+    {
+        "prefix": "M", 
+        "word": "猛", 
+        "jpword": "猛獣", 
+        "kana": "もうじゅう⓪", 
+        "mean": "猛兽", 
+        "sample": "猛獣と格闘する。/与猛兽搏斗。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "野", 
+        "jpword": "野獣", 
+        "kana": "やじゅう⓪", 
+        "mean": "野兽", 
+        "sample": "足跡をたどって野獣を追う。/沿着脚印追踪野兽。"
+    }, 
+    {
+        "prefix": "N", 
+        "word": "鳥", 
+        "jpword": "鳥獣", 
+        "kana": "ちょうじゅう⓪", 
+        "mean": "鸟兽", 
+        "sample": "鳥獣保護区。/鸟兽保护区。"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "野", 
+        "jpword": "野鼠", 
+        "kana": "のねずみ②", 
+        "mean": "野鼠，田鼠", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "S", 
+        "word": "水", 
+        "jpword": "水鳥", 
+        "kana": "すいちょう⓪", 
+        "mean": "水鸟", 
+        "sample": "珍しい水鳥/珍稀的水鸟"
+    }, 
+    {
+        "prefix": "S", 
+        "word": "水", 
+        "jpword": "水牛", 
+        "kana": "すいぎゅう⓪", 
+        "mean": "水牛", 
+        "sample": "水牛を飼う/饲养水牛"
+    }, 
+    {
+        "prefix": "T", 
+        "word": "天", 
+        "jpword": "天馬", 
+        "kana": "てんば①", 
+        "mean": "天马，飞马", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "野", 
+        "jpword": "野兎", 
+        "kana": "のうさぎ②", 
+        "mean": "野兔", 
+        "sample": ""
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "野", 
+        "jpword": "野猪", 
+        "kana": "やちょ①", 
+        "mean": "野猪", 
+        "sample": "野猪を殺す/杀野猪"
+    }, 
+    {
+        "prefix": "Z", 
+        "word": "蜘", 
+        "jpword": "蜘蛛", 
+        "kana": "くも①", 
+        "mean": "蜘蛛，蛛蛛", 
+        "sample": "空一面の雲/满天密云"
+    }, 
+    {
+        "prefix": "Y", 
+        "word": "鴛", 
+        "jpword": "鴛鴦", 
+        "kana": "えんおう⓪", 
+        "mean": "鸳鸯", 
+        "sample": "鴛鴦の契りを結ぶ。/订偕老之盟。"
+    }, 
+    {
+        "prefix": "R", 
+        "word": "人", 
+        "jpword": "人魚", 
+        "kana": "にんぎょ①", 
+        "mean": "美人鱼", 
+        "sample": "一体世界で人魚がいるか。／到底世界上真的有美人鱼吗？"
+    }, 
+    {
+        "prefix": "D", 
+        "word": "大", 
+        "jpword": "大魚", 
+        "kana": "たいぎょ①", 
+        "mean": "大鱼", 
+        "sample": "大きな魚が網にかかった/大魚被網捕到了"
+    }
+]
