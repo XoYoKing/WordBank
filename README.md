@@ -1,8 +1,7 @@
 # WordBank
 ![Language](http://img.shields.io/badge/Language-Objective--C-brightgreen.svg?style=flat) [![CSDN](https://img.shields.io/badge/CSDN-Peter__Huang0623-orange.svg)](https://blog.csdn.net/Peter_Huang0623)  [![e-mail](https://img.shields.io/badge/E--mail-huangchao0623%40126.com-blue.svg)](huangchao0623@126.com)
 
-![pic1](https://github.com/Peter-Huang0623/WordBank/blob/master/README_Pics/1-1242-2208.jpg)  ![pic2](https://github.com/Peter-Huang0623/WordBank/blob/master/README_Pics/1242-2208.jpg)  ![pic3](https://github.com/Peter-Huang0623/WordBank/blob/master/README_Pics/2-1242-2208.jpg)
-
+<div align=center> <img src='https://github.com/Peter-Huang0623/WordBank/blob/master/README_Pics/1-1242-2208.jpg' width='30%' height='30%'> <img src='https://github.com/Peter-Huang0623/WordBank/blob/master/README_Pics/1242-2208.jpg' width='30%' height='30%'>  <img src='https://github.com/Peter-Huang0623/WordBank/blob/master/README_Pics/2-1242-2208.jpg' width='30%' height='30%'></div>
 
 ## 1、使用到的第三方框架
 
