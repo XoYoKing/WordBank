@@ -16,5 +16,4 @@ pod 'AFNetworking'
 pod 'SDWebImage'
 pod 'SCLAlertView-Objective-C'
 pod 'VBFPopFlatButton'
-pod ‘KSGuaidView’
 end

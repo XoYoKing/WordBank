@@ -11,9 +11,9 @@
 #import "AFNetworking.h"
 #import <Masonry.h>
 
-#define kBaiduTranslationAPPID @"20190215000267267"
+#define kBaiduTranslationAPPID @"your-appid"
 #define kBaiduTranslationSalt @"20"
-#define kBaiduTranslationKey @"txAIm3A6YEFM1545REt7"
+#define kBaiduTranslationKey @"translation-key"
 #define RGBACOLOR(R,G,B,A)      [UIColor colorWithRed:R/255.0 green:G/255.0 blue:B/255.0 alpha:A]
 
 @interface DictViewController ()<UITextViewDelegate>

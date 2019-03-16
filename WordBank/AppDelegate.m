@@ -23,7 +23,7 @@
 @implementation AppDelegate
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     //注册Bomob
-    [Bmob registerWithAppKey:@"6ff29515adaaad3f81e0f0cd39757ed9"];
+    [Bmob registerWithAppKey:@"your-appkey"];
     self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
 #pragma 主页
     UIStoryboard *storyboard = [UIStoryboard storyboardWithName:@"Main" bundle:[NSBundle mainBundle]];
